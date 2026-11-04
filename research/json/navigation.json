@@ -1,0 +1,278 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "source_url": "https://elatre.com/",
+  "source_html": "research/html/index.html",
+  "main_navigation": [
+    {
+      "label": "Home",
+      "url": "https://elatre.com/"
+    },
+    {
+      "label": "Marketing services",
+      "url": "https://elatre.com/digital-marketing-services/",
+      "children": [
+        {
+          "label": "SEO service",
+          "url": "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/"
+        },
+        {
+          "label": "AI SEO Service",
+          "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/"
+        },
+        {
+          "label": "Paid ads and PPC",
+          "url": "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/"
+        },
+        {
+          "label": "Social media marketing",
+          "url": "https://elatre.com/digital-marketing-services/social-media-marketing/"
+        },
+        {
+          "label": "Ecommerce marketing",
+          "url": "https://elatre.com/digital-marketing-services/ecommerce-marketing/"
+        },
+        {
+          "label": "B2B marketing",
+          "url": "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/"
+        }
+      ]
+    },
+    {
+      "label": "Software services",
+      "url": "https://elatre.com/software-development-services/",
+      "children": [
+        {
+          "label": "AI automation and AI agents",
+          "url": "https://elatre.com/software-development-services/ai-automation-and-ai-agents/"
+        },
+        {
+          "label": "Custom developments",
+          "url": "https://elatre.com/software-development-services/custom-software-development/"
+        },
+        {
+          "label": "CRM automation",
+          "url": "https://elatre.com/software-development-services/crm-automation-and-integration/"
+        },
+        {
+          "label": "Website development",
+          "url": "https://elatre.com/software-development-services/website-development/"
+        },
+        {
+          "label": "Mobile app development",
+          "url": "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/"
+        }
+      ]
+    },
+    {
+      "label": "About",
+      "url": "https://elatre.com/about/"
+    },
+    {
+      "label": "Contact",
+      "url": "https://elatre.com/contact/"
+    },
+    {
+      "label": "Get AI Visibility Audit",
+      "url": "https://elatre.com/ai-visibility-audit/"
+    }
+  ],
+  "dropdown_navigation": [
+    {
+      "label": "SEO service",
+      "url": "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/",
+      "parent": "Marketing services"
+    },
+    {
+      "label": "AI SEO Service",
+      "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/",
+      "parent": "Marketing services"
+    },
+    {
+      "label": "Paid ads and PPC",
+      "url": "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+      "parent": "Marketing services"
+    },
+    {
+      "label": "Social media marketing",
+      "url": "https://elatre.com/digital-marketing-services/social-media-marketing/",
+      "parent": "Marketing services"
+    },
+    {
+      "label": "Ecommerce marketing",
+      "url": "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+      "parent": "Marketing services"
+    },
+    {
+      "label": "B2B marketing",
+      "url": "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+      "parent": "Marketing services"
+    },
+    {
+      "label": "AI automation and AI agents",
+      "url": "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+      "parent": "Software services"
+    },
+    {
+      "label": "Custom developments",
+      "url": "https://elatre.com/software-development-services/custom-software-development/",
+      "parent": "Software services"
+    },
+    {
+      "label": "CRM automation",
+      "url": "https://elatre.com/software-development-services/crm-automation-and-integration/",
+      "parent": "Software services"
+    },
+    {
+      "label": "Website development",
+      "url": "https://elatre.com/software-development-services/website-development/",
+      "parent": "Software services"
+    },
+    {
+      "label": "Mobile app development",
+      "url": "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/",
+      "parent": "Software services"
+    }
+  ],
+  "footer_navigation": [
+    {
+      "label": "Get a Free Quote",
+      "url": "https://elatre.com/request-a-proposal/"
+    },
+    {
+      "label": "Home",
+      "url": "https://elatre.com"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/ElatreOfficial"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/elatreofficial/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/elatre/"
+    },
+    {
+      "label": "Call us at +1 646 755 2633",
+      "url": "tel:+1%20646%20755%202633"
+    },
+    {
+      "label": "Book a free strategy call",
+      "url": "https://calendly.com/elatre/divya"
+    },
+    {
+      "label": "SEO service",
+      "url": "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/"
+    },
+    {
+      "label": "AI SEO service",
+      "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/"
+    },
+    {
+      "label": "Social media marketing",
+      "url": "https://elatre.com/digital-marketing-services/social-media-marketing/"
+    },
+    {
+      "label": "Paid ads and PPC",
+      "url": "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/"
+    },
+    {
+      "label": "Ecommerce marketing",
+      "url": "https://elatre.com/digital-marketing-services/ecommerce-marketing/"
+    },
+    {
+      "label": "B2B Marketing",
+      "url": "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/"
+    },
+    {
+      "label": "GEO Marketing Services",
+      "url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/"
+    },
+    {
+      "label": "Corporate Video Production",
+      "url": "https://elatre.com/digital-marketing-services/corporate-video-production/"
+    },
+    {
+      "label": "Drone Photography and Video Services",
+      "url": "https://elatre.com/digital-marketing-services/drone-photography-video-services/"
+    },
+    {
+      "label": "Amazon Seller Central Consulting",
+      "url": "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/"
+    },
+    {
+      "label": "Pre-launch Marketing",
+      "url": "https://elatre.com/digital-marketing-services/pre-launch-marketing/"
+    },
+    {
+      "label": "Website development",
+      "url": "https://elatre.com/software-development-services/website-development/"
+    },
+    {
+      "label": "AI automation and AI agents",
+      "url": "https://elatre.com/software-development-services/ai-automation-and-ai-agents/"
+    },
+    {
+      "label": "Mobile app development",
+      "url": "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/"
+    },
+    {
+      "label": "Custom developments",
+      "url": "https://elatre.com/software-development-services/custom-software-development/"
+    },
+    {
+      "label": "CRM automations",
+      "url": "https://elatre.com/software-development-services/crm-automation-and-integration/"
+    },
+    {
+      "label": "AI Chatbot Development",
+      "url": "https://elatre.com/software-development-services/ai-chatbot-development-services/"
+    },
+    {
+      "label": "Generative AI Development",
+      "url": "https://elatre.com/software-development-services/generative-ai-development-services/"
+    },
+    {
+      "label": "AI Cost Optimization Services",
+      "url": "https://elatre.com/software-development-services/ai-cost-optimization/"
+    },
+    {
+      "label": "AI MVP Development",
+      "url": "https://elatre.com/software-development-services/ai-mvp-development/"
+    },
+    {
+      "label": "Software Testing and QA Services",
+      "url": "https://elatre.com/software-development-services/software-testing-qa-services/"
+    },
+    {
+      "label": "AI Ethics and Governance",
+      "url": "https://elatre.com/ai-ethics-and-governance/"
+    },
+    {
+      "label": "Read about the fake job offer scam targeting job seekers",
+      "url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/"
+    },
+    {
+      "label": "Cancellation Policy",
+      "url": "https://elatre.com/cancellation-and-refund-policy/"
+    },
+    {
+      "label": "Privacy",
+      "url": "https://elatre.com/privacy-policy-and-data-protection/"
+    },
+    {
+      "label": "Terms of use",
+      "url": "https://elatre.com/terms-and-conditions/"
+    }
+  ],
+  "limitations": [
+    "WordPress menu REST routes /wp-json/wp/v2/menus and /wp-json/wp/v2/menu-locations returned HTTP 401. Those routes were not retried with credentials.",
+    "Desktop header links were read from the first pix-main-menu block. A matching mobile menu is also present in the HTML and was not repeated.",
+    "Dropdown children are the links inside the Marketing services and Software services menus."
+  ],
+  "verification_status": "verified_from_homepage_html"
+}

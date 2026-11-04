@@ -1,0 +1,10 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "catalog_status": "no_public_product_catalog",
+  "evidence": "GET https://elatre.com/wp-json/wc/store/v1/products?per_page=1 returned x-wp-total: 0. GET https://elatre.com/wp-json/wp/v2/product?per_page=1 also returned x-wp-total: 0.",
+  "products": [],
+  "note": "Software and marketing offers are published as services and consulting pages, not as purchasable products. Those offers are in services.json and solutions.json.",
+  "verification_status": "verified"
+}

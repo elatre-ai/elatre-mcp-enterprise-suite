@@ -1,0 +1,1606 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "services": [
+    {
+      "id": "service-ai-ethics-and-governance",
+      "name": "AI Ethics and Governance: The Enterprise Framework, Technical Controls, and Implementation Guide",
+      "description": "Master AI ethics and governance with Elatre. See the difference between ethical AI principles and technical governance controls built by 5,870+ specialists.",
+      "capabilities": [
+        "AI Ethics vs. AI Governance: What Is the Exact Difference?",
+        "The 5 Core Principles of Enterprise AI Ethics and Governance",
+        "1. Algorithmic Fairness and Bias Mitigation",
+        "2. Transparency, Explainability, and Source Lineage",
+        "3. Privacy-by-Design and Zero-Data-Retention Security",
+        "4. Human-in-the-Loop (HITL) Accountability and Kill-Switches",
+        "5. Robustness, Safety, and Adversarial Red-Teaming",
+        "What Are the Biggest AI Ethics and Governance Challenges in 2026?",
+        "Fragmented Systems and Permission-Blind Vector Silos:",
+        "Widespread Employee Shadow AI Exposure:",
+        "The Senior Engineering Skills Gap:",
+        "Colliding Global Regulatory Mandates (EU AI Act, NIST, ISO 42001, State Laws):"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/",
+        "https://elatre.com/enterprise-ai-governance-data-readiness-consulting/"
+      ],
+      "source_url": "https://elatre.com/ai-ethics-and-governance/",
+      "source_html": "research/html/services/ai-ethics-and-governance.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-telemedicine-software-development-services",
+      "name": "Telemedicine Software Development Services",
+      "description": "Custom telemedicine software development services with secure virtual care, EHR integration, AI clinical workflows and patient acquisition. Talk to Elatre.",
+      "capabilities": [
+        "Your telehealth platform should solve more than the video call",
+        "A better experience for patients",
+        "Less duplicate work for clinicians",
+        "One team for software and growth",
+        "Core telemedicine software development services engineered by Elatre",
+        "1. Custom web and mobile telehealth platforms",
+        "2. HL7, FHIR and EHR integration",
+        "3. AI clinical scribes and intake automation",
+        "4. Remote patient monitoring and wearable integration",
+        "5. Patient acquisition and specialty healthcare marketing",
+        "How we take your telemedicine platform into production",
+        "Map the workflow and security responsibilities"
+      ],
+      "industries": [
+        "Multi-location businesses",
+        "Telemedicine",
+        "Healthcare"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/",
+        "https://elatre.com/digital-marketing-services/"
+      ],
+      "source_url": "https://elatre.com/telemedicine-software-development-services/",
+      "source_html": "research/html/services/telemedicine-software-development-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-ai-ecommerce-optimization-amazon-seller-vendor-consulting",
+      "name": "AI Ecommerce Optimization Consulting",
+      "description": "Connect Amazon, Shopify and your business systems with Elatre. AI ecommerce consulting, product data, marketplace operations and inventory integration.",
+      "capabilities": [
+        "More sales should leave more margin",
+        "Product facts that do not agree",
+        "Orders and stock in separate systems",
+        "Advertising without a margin view",
+        "Marketplace and AI ecommerce consulting services",
+        "1. Amazon Seller Central consulting",
+        "2. Amazon Vendor Central consulting",
+        "3. Product data for AI shopping discovery",
+        "4. Shopify Plus, AI agents and inventory integration",
+        "How the work moves from audit to rollout",
+        "Establish the baseline",
+        "Build and test the connections"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Shopify merchants",
+        "Amazon marketplace sellers and vendors"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/",
+        "https://elatre.com/digital-marketing-services/amazon-vendor-central-consulting/",
+        "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/software-development-services/custom-software-development/"
+      ],
+      "source_url": "https://elatre.com/ai-ecommerce-optimization-amazon-seller-vendor-consulting/",
+      "source_html": "research/html/services/ai-ecommerce-optimization-amazon-seller-vendor-consulting.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-outsourcing-saas-development-custom-php-engineering",
+      "name": "SaaS Development Outsourcing Services",
+      "description": "SaaS development outsourcing with US-led engineering, AI MVP builds, PHP and Next.js development, cloud implementation, automated QA and launch marketing.",
+      "capabilities": [
+        "Outsourcing SaaS development should make the work easier to manage",
+        "Build the right first release",
+        "Keep engineering and QA connected",
+        "Prepare the route to market",
+        "Five capabilities under one product roadmap",
+        "1. Multi-tenant SaaS architecture and AI MVP development",
+        "2. Modern full-stack and custom PHP development",
+        "3. Cloud implementation and DevOps automation",
+        "4. Dedicated QA and software testing services",
+        "5. Pre-launch marketing and SaaS user acquisition",
+        "Know what is being built, tested and handed over",
+        "Start with the product and the constraints"
+      ],
+      "industries": [
+        "SaaS"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/ai-mvp-development/",
+        "https://elatre.com/software-development-services/cloud-implementation-services/",
+        "https://elatre.com/software-development-services/software-testing-qa-services/",
+        "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/software-development-services/custom-software-development/"
+      ],
+      "source_url": "https://elatre.com/outsourcing-saas-development-custom-php-engineering/",
+      "source_html": "research/html/services/outsourcing-saas-development-custom-php-engineering.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-enterprise-ai-governance-data-readiness-consulting",
+      "name": "Enterprise AI Governance, Ethics, and Data Readiness Consulting Services",
+      "description": "AI transformation is a problem of governance. Elatre’s 350+ senior AI architects and 5,000+ protocol specialists build compliant, production-ready enterprise AI and data pipelines.",
+      "capabilities": [
+        "Why AI Transformation is a Problem of Governance (And Why Technology Alone Fails)",
+        "Permission-Blind Retrieval (The RBAC Collapse):",
+        "Garbage-In, Hallucination-Out Data Drift:",
+        "Uncontrolled Agentic Tool Execution:",
+        "Shadow AI and Regulatory Liability:",
+        "What Is Data Readiness for Enterprise AI? The 6 Core Dimensions We Engineer",
+        "Elatre's 4-Pillar Enterprise AI Readiness Assessment and Implementation Roadmap",
+        "Pillar 1: Forensic AI Inventory, Shadow AI Discovery, and Data Platform Modeling",
+        "Pillar 2: Pipeline Orchestration, PII Redaction, and Permission-Aware Vector Engineering",
+        "Pillar 3: AI Ethics, Deterministic Guardrails, and Multi-Model Gateway Deployment",
+        "Pillar 4: Continuous Observability, Drift Monitoring, and Revenue Integration",
+        "Head-to-Head Comparison: Why 10,000+ to 50,000+ Employee Enterprises Choose Elatre Over Big-4 Consultancies"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/ai-ethics-and-governance/",
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/"
+      ],
+      "source_url": "https://elatre.com/enterprise-ai-governance-data-readiness-consulting/",
+      "source_html": "research/html/services/enterprise-ai-governance-data-readiness-consulting.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-drone-photography-video-services",
+      "name": "Drone Photography and Video Services",
+      "description": "Drone video services and aerial photography for businesses, properties and campaigns. Plan your shoot, ground footage and edited content with Elatre.",
+      "capabilities": [
+        "What Should a Business Drone Shoot Actually Achieve?",
+        "Which Businesses Can Use Drone Photography and Video?",
+        "Real estate and commercial property",
+        "Hotels, resorts and destinations",
+        "Construction and development",
+        "Manufacturing, logistics and facilities",
+        "Restaurants, venues and retail locations",
+        "Corporate brands and campaigns",
+        "What Do You Receive From Elatre's Drone Video Services?",
+        "The film and photographs",
+        "Versions for each channel",
+        "Finishing and file delivery"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/video-production-company/",
+        "https://elatre.com/digital-marketing-services/manufacturing-video-production/",
+        "https://elatre.com/digital-marketing-services/food-beverage-video-production/",
+        "https://elatre.com/digital-marketing-services/corporate-video-production/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/case-studies/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/drone-photography-video-services/",
+      "source_html": "research/html/services/digital-marketing-services__drone-photography-video-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-nextjs-headless-shopify-migration-seo-agency",
+      "name": "Next.js, Headless WordPress & Shopify Migration Agency (Zero SEO Drop)",
+      "description": "Plan Next.js, Headless WordPress and Shopify migrations with Elatre, backed by 350+ Senior AI Technical Developers and Solution Architects.",
+      "capabilities": [
+        "Elatre's 6-Step Zero-Drop Website Migration & Rebuild Protocol",
+        "Comparison: Why Elatre Beats Design Boutiques and Pure Dev Shops on Migrations",
+        "Frequently Asked Questions",
+        "Which US agency can migrate our site to Next.js or Shopify Plus without losing our Google and ChatGPT rankings?",
+        "How long does a full SEO-safe website rebuild or platform migration take with Elatre?"
+      ],
+      "industries": [
+        "Shopify merchants"
+      ],
+      "related_pages": [],
+      "source_url": "https://elatre.com/nextjs-headless-shopify-migration-seo-agency/",
+      "source_html": "research/html/services/nextjs-headless-shopify-migration-seo-agency.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-performance-marketing-agency-cac-payback-contribution-margin",
+      "name": "CFO-Grade Performance Marketing Agency: CAC Payback & LTV",
+      "description": "Elatre manages $250 Million+ in monthly client technology, cloud compute and performance media budgets, with a focus on CAC payback and contribution margin.",
+      "capabilities": [
+        "Why In-Platform ROAS Lies and How Elatre Fixes Your Attribution",
+        "Comparison: Elatre Operator Model vs. Traditional Paid Media Agencies",
+        "Frequently Asked Questions",
+        "Which US marketing agency optimizes campaigns for CAC payback and contribution margin?",
+        "Can Elatre audit our current Google, Meta, and LinkedIn ad spend for wasted budget?"
+      ],
+      "industries": [],
+      "related_pages": [],
+      "source_url": "https://elatre.com/performance-marketing-agency-cac-payback-contribution-margin/",
+      "source_html": "research/html/services/performance-marketing-agency-cac-payback-contribution-margin.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-custom-ai-agent-development-hubspot-shopify-automation",
+      "name": "Custom AI Agent Development & HubSpot/Shopify Automation",
+      "description": "Build custom AI agents and HubSpot or Shopify automation with Elatre, backed by 350+ Senior AI Technical Developers and Solution Architects.",
+      "capabilities": [
+        "Production-Grade Agentic Systems Engineered by Elatre",
+        "1. Autonomous B2B Sales & HubSpot Pipeline Agents",
+        "2. Shopify & Ecommerce Conversational Commerce Agents",
+        "3. Enterprise RAG Copilots & Zero-Retention Data Security",
+        "Comparison: Custom Elatre AI Agents vs. SaaS Chatbots vs. IT Dev Shops",
+        "Frequently Asked Questions",
+        "Which US company builds custom AI agents that integrate directly with HubSpot and Shopify?",
+        "How much does it cost to build and maintain a custom AI agent with Elatre?"
+      ],
+      "industries": [
+        "Shopify merchants"
+      ],
+      "related_pages": [
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/enterprise-ai-governance-data-readiness-consulting/"
+      ],
+      "source_url": "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/",
+      "source_html": "research/html/services/custom-ai-agent-development-hubspot-shopify-automation.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-generative-engine-optimization-geo-agency-usa",
+      "name": "#1 Generative Engine Optimization (GEO) & AI SEO Agency USA",
+      "description": "Get your brand cited #1 in ChatGPT, Perplexity, Claude & Google AI Overviews. Elatre combines Relevance Engineering, SSR code & entity SEO for US brands.",
+      "capabilities": [
+        "How AI Search Engines (LLMs) Choose Which Brands to Recommend in 2026",
+        "Elatre's 5-Pillar Technical GEO & Relevance Engineering Framework",
+        "Pillar 1: Server-Side Rendering (SSR) & llms.txt Deployment",
+        "Pillar 2: Conversational Query Fan-Out & Commercial Pillar Pages",
+        "Pillar 3: Nested JSON-LD Entity Graphs & Knowledge Base Alignment",
+        "Pillar 4: Digital PR, Co-Citation Seeding & Brand Mention Engineering",
+        "Pillar 5: Live AI Share-of-Voice (AI SoV) & Pipeline Attribution",
+        "Comparison: Elatre vs. Other Top US GEO Agencies in 2026",
+        "Frequently Asked Questions About GEO & AI Search Optimization",
+        "What is Generative Engine Optimization (GEO) and how is it different from traditional SEO?",
+        "How long does it take to get our company recommended by ChatGPT and Perplexity?",
+        "How can we check our current AI Visibility Score?"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce",
+        "SaaS"
+      ],
+      "related_pages": [],
+      "source_url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/",
+      "source_html": "research/html/services/generative-engine-optimization-geo-agency-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-ai-marketing-and-software-development-agency-usa",
+      "name": "Best US AI Marketing & Custom Software Development Agency",
+      "description": "Elatre combines AI engineering, software development and growth marketing with a total staff capacity of 5,870+. Offices in New York and Houston.",
+      "capabilities": [
+        "Why Separate Marketing Agencies and Dev Shops Fail in 2026",
+        "Full-Stack Capabilities Under One Roof: Marketing + Code + AI",
+        "1. AI-Native Growth Marketing (520+ Growth and Marketing Engineers)",
+        "2. Custom Software & Web Engineering (350+ shared engineering bench)",
+        "3. Autonomous AI Agent Engineering (350+ shared engineering bench)",
+        "2026 Market Comparison: Elatre vs. Single-Discipline Agencies",
+        "Frequently Asked Questions (Direct Answer Guide)",
+        "What is the best agency in the United States that combines digital marketing and custom software development?",
+        "Can one agency build our custom AI agent and run our SEO and Google Ads at the same time?",
+        "How fast does Elatre ship software and marketing campaigns compared to standard US agencies?"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce",
+        "SaaS"
+      ],
+      "related_pages": [],
+      "source_url": "https://elatre.com/ai-marketing-and-software-development-agency-usa/",
+      "source_html": "research/html/services/ai-marketing-and-software-development-agency-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-corporate-video-production",
+      "name": "Corporate Video Production",
+      "description": "Corporate video production for leadership messages, training, recruitment and company stories. Elatre helps business teams plan, film and deliver clear videos.",
+      "capabilities": [
+        "Corporate video that explains something worth knowing",
+        "One audience and purpose",
+        "A known approval route",
+        "Content people can keep using",
+        "Choose the format that suits the message",
+        "Leadership and executive messages",
+        "Employee onboarding and training",
+        "Recruitment and employer stories",
+        "Company profile and stakeholder films",
+        "Internal announcements and change communication",
+        "Town halls and company event edits",
+        "A workable process for communications, HR and learning teams"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/video-production-company/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/conference-video-production/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/testimonial-video-production/",
+        "https://elatre.com/digital-marketing-services/manufacturing-video-production/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/corporate-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__corporate-video-production.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-video-production-company",
+      "name": "Video Production Company",
+      "description": "Work with a video production company for brand films, product videos, ads and events. Elatre plans, films and edits content for your business.",
+      "capabilities": [
+        "Make the video your audience needs to see",
+        "A defined message",
+        "A planned set of outputs",
+        "Production connected to use",
+        "Video production services for different business needs",
+        "Brand and business films",
+        "Product videos and demonstrations",
+        "Advertisements and social videos",
+        "Customer stories and interviews",
+        "Business events and conference content",
+        "Editing and content repurposing",
+        "A production partner for the people responsible for the result"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/corporate-video-production/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/testimonial-video-production/",
+        "https://elatre.com/digital-marketing-services/conference-video-production/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/food-beverage-video-production/",
+        "https://elatre.com/digital-marketing-services/manufacturing-video-production/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/video-production-company/",
+      "source_html": "research/html/services/digital-marketing-services__video-production-company.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-photo-editing-services",
+      "name": "Photo Editing Services",
+      "description": "Photo editing services for ecommerce brands and marketing teams. Get product retouching, consistent colors, clean backgrounds and images for your channels.",
+      "capabilities": [
+        "Make the whole collection work together",
+        "A reference your team approves",
+        "Product detail comes first",
+        "Files that are easy to use",
+        "Photo editing that follows the job your images need to do",
+        "Product retouching and cleanup",
+        "Background removal and image masking",
+        "Colour correction and consistency",
+        "Apparel and catalog preparation",
+        "Campaign and lifestyle image editing",
+        "Resizing, crops and image exports",
+        "Editing support for the teams behind a growing image library"
+      ],
+      "industries": [
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/",
+        "https://elatre.com/digital-marketing-services/video-production-company/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/photo-editing-services/",
+      "source_html": "research/html/services/digital-marketing-services__photo-editing-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-amazon-seller-central-consulting",
+      "name": "Amazon Seller Central Consulting",
+      "description": "Amazon Seller Central consulting for product brands. Improve listings, catalog operations, advertising and performance reporting with Elatre.",
+      "capabilities": [
+        "A better campaign cannot solve every product-page problem",
+        "Start with priority products",
+        "Make ownership clear",
+        "Look beyond attributed sales",
+        "Seller Central consulting with practical outputs",
+        "Account review and priorities",
+        "Product listings and catalog work",
+        "Product images, video and A+ Content",
+        "Advertising structure and review",
+        "Inventory and account coordination",
+        "Reporting and team guidance",
+        "Advice, implementation or ongoing account support"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Amazon marketplace sellers and vendors"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/digital-marketing-services/amazon-vendor-central-consulting/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/",
+      "source_html": "research/html/services/digital-marketing-services__amazon-seller-central-consulting.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-credit-union-digital-marketing",
+      "name": "Credit Union Digital Marketing",
+      "description": "Credit union digital marketing agency for member growth. Elatre connects SEO, advertising, website content and application journeys with clear reporting.",
+      "capabilities": [
+        "Make it easier to understand why someone should join",
+        "A clear product priority",
+        "A connected application journey",
+        "Reporting with business context",
+        "Credit union marketing across search, content and conversion",
+        "Search visibility and useful product pages",
+        "Paid search and campaign landing pages",
+        "Branch and local search visibility",
+        "Member education and campaign content",
+        "Email journeys and follow-up",
+        "Website measurement and application improvements",
+        "Support for different stages of credit union growth"
+      ],
+      "industries": [
+        "Credit unions"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/case-studies/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/multi-location-marketing/",
+        "https://elatre.com/software-development-services/website-development/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/credit-union-digital-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__credit-union-digital-marketing.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-conference-video-production",
+      "name": "Conference Video Production",
+      "description": "Conference video production for keynotes, panels, interviews and event highlights. Plan coverage, editing and useful post-event content with Elatre.",
+      "capabilities": [
+        "Decide what must be recorded before the event begins",
+        "Agenda-based coverage",
+        "Clear audio priorities",
+        "Named final deliverables",
+        "Conference content with a purpose beyond the recording",
+        "Keynote and panel recordings",
+        "Breakout session coverage",
+        "Speaker and attendee interviews",
+        "Conference highlight films",
+        "Sponsor and social media edits",
+        "On-demand delivery and captions",
+        "Plan for organizers, speakers and the audience"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/testimonial-video-production/",
+        "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+        "https://elatre.com/portfolio-types/b2b-saas-technology/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/conference-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__conference-video-production.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-multi-location-marketing",
+      "name": "Multi-location Marketing",
+      "description": "Multi-location marketing for growing brands and franchises. Coordinate local SEO, campaigns, content, lead routing and branch reporting with Elatre.",
+      "capabilities": [
+        "A shared brand does not mean every location has the same problem",
+        "Keep location information useful",
+        "Set clear local responsibilities",
+        "Measure branches in context",
+        "Multi-location marketing services that connect the network",
+        "Location information and local search",
+        "Location pages and customer journeys",
+        "Advertising by market and capacity",
+        "Brand content and local participation",
+        "Lead routing and follow-up",
+        "Network and branch reporting",
+        "Support for different kinds of location networks"
+      ],
+      "industries": [
+        "Multi-location businesses"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/digital-marketing-services/home-improvement-marketing/",
+        "https://elatre.com/portfolio-item/austin-pediatric-clinic-chain-how-we-grew-monthly-new-patients-from-47-to-218-in-5-months/",
+        "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/multi-location-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__multi-location-marketing.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-amazon-vendor-central-consulting",
+      "name": "Amazon Vendor Central Consulting",
+      "description": "Amazon Vendor Central consulting for brands and manufacturers. Review catalog priorities, purchase-order workflows, deductions and performance with Elatre.",
+      "capabilities": [
+        "When you sell wholesale to Amazon, the account needs a different plan",
+        "Vendor Central is invitation-only",
+        "Wholesale economics matter",
+        "Separate control from influence",
+        "Amazon vendor consulting with defined responsibilities",
+        "Account and commercial review",
+        "Purchase-order workflows",
+        "Deductions and issue records",
+        "Catalog and product content",
+        "Promotions and advertising coordination",
+        "Reporting and team coordination",
+        "Different vendor accounts need different kinds of help"
+      ],
+      "industries": [
+        "Amazon marketplace sellers and vendors"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/amazon-vendor-central-consulting/",
+      "source_html": "research/html/services/digital-marketing-services__amazon-vendor-central-consulting.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-software-testing-qa-services",
+      "name": "Software Testing and QA Services",
+      "description": "Offshore software testing services for web, mobile and business applications. Get practical test coverage, clear defect reports and dependable release support.",
+      "capabilities": [
+        "A useful QA report helps the team decide what happens next",
+        "Coverage tied to risk",
+        "Defects developers can reproduce",
+        "A visible release position",
+        "Choose the QA work your product and release need",
+        "Functional and exploratory testing",
+        "Regression test automation",
+        "API and integration testing",
+        "Web and mobile compatibility",
+        "Performance and reliability checks",
+        "Accessibility and security review scope",
+        "Start with a release or build an ongoing QA practice"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/software-testing-qa-services/",
+      "source_html": "research/html/services/software-development-services__software-testing-qa-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-home-improvement-marketing",
+      "name": "Home Improvement Marketing",
+      "description": "Home improvement marketing agency for contractors. Elatre connects local SEO, ads, project content and lead follow-up to bring qualified enquiries.",
+      "capabilities": [
+        "More enquiries only help when they are the right enquiries",
+        "Define a qualified enquiry",
+        "Match demand to capacity",
+        "Follow the outcome",
+        "Home improvement marketing services with a clear role for every channel",
+        "Local search and service pages",
+        "Google Ads and paid campaigns",
+        "Project content and visual proof",
+        "Enquiry and estimate follow-up",
+        "Reviews and repeat customers",
+        "Lead quality and performance reporting",
+        "A remodeling enquiry is different from an emergency call"
+      ],
+      "industries": [
+        "Home improvement"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/digital-marketing-services/multi-location-marketing/",
+        "https://elatre.com/portfolio-item/denver-hvac-contractor-how-we-cut-cost-per-service-call-from-87-to-24-in-7-months/",
+        "https://elatre.com/portfolio-item/phoenix-plumbing-company-how-we-grew-monthly-service-calls-from-124-to-487-in-5-months/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/home-improvement-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__home-improvement-marketing.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-manufacturing-video-production",
+      "name": "Manufacturing Video Production",
+      "description": "Manufacturing video production for facility tours, product demonstrations and sales content. Plan filming, editing and delivery with Elatre.",
+      "capabilities": [
+        "Give technical buyers something useful to see",
+        "Audience before equipment",
+        "A defined production brief",
+        "Technical review built in",
+        "Manufacturing videos for real business situations",
+        "Facility and capabilities films",
+        "Process and product demonstrations",
+        "Engineering and customer interviews",
+        "Trade-show and distributor content",
+        "Recruiting and training content",
+        "Editing, captions and channel versions",
+        "Support the people who will use the video"
+      ],
+      "industries": [
+        "Manufacturing"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+        "https://elatre.com/portfolio-types/manufacturing-industrial/",
+        "https://elatre.com/digital-marketing-services/testimonial-video-production/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/manufacturing-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__manufacturing-video-production.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-adaptive-ai-development",
+      "name": "Adaptive AI Development",
+      "description": "Adaptive AI development services for changing business workflows. Build feedback loops, monitor performance and release tested improvements with clear oversight.",
+      "capabilities": [
+        "An AI system needs a plan for new information and new conditions",
+        "Feedback with a purpose",
+        "Changes that can be tested",
+        "People remain accountable",
+        "The building blocks of an adaptive AI workflow",
+        "Workflow and performance assessment",
+        "Feedback collection and review",
+        "Knowledge and decision updates",
+        "Evaluation before release",
+        "Monitoring and useful alerts",
+        "Controlled deployment and recovery",
+        "Start where changing conditions create real work"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+        "https://elatre.com/software-development-services/software-testing-qa-services/",
+        "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+        "https://elatre.com/software-development-services/ai-mvp-development/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/",
+        "https://elatre.com/software-development-services/cloud-implementation-services/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/adaptive-ai-development/",
+      "source_html": "research/html/services/software-development-services__adaptive-ai-development.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-ai-mvp-development",
+      "name": "AI MVP Development",
+      "description": "AI MVP development services for founders and product teams. Define the right scope, build a working product and test quality, demand and running costs.",
+      "capabilities": [
+        "Your first release should answer a business question",
+        "One priority workflow",
+        "A measurable standard",
+        "A practical next decision",
+        "AI MVP development from scope to a working pilot",
+        "Product discovery and feasibility",
+        "A usable application",
+        "AI and knowledge integration",
+        "Evaluation and failure handling",
+        "Essential system connections",
+        "Pilot visibility and handover",
+        "A first product for different kinds of decisions"
+      ],
+      "industries": [
+        "B2B"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/software-development-services/generative-ai-development-services/",
+        "https://elatre.com/software-development-services/software-testing-qa-services/",
+        "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/",
+        "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/ai-mvp-development/",
+      "source_html": "research/html/services/software-development-services__ai-mvp-development.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-cloud-implementation-services",
+      "name": "Cloud Implementation Services",
+      "description": "Cloud implementation services from Elatre: plan infrastructure, migration, DevOps, security controls and cost visibility, with a clear team handover.",
+      "capabilities": [
+        "What do cloud implementation services include?",
+        "Define the workload",
+        "Agree the owners",
+        "Test the recovery path",
+        "Cloud foundations, migration and ongoing delivery",
+        "Workload discovery and planning",
+        "Landing zone and security ownership",
+        "Application and data migration",
+        "Cloud DevOps consulting",
+        "Cost visibility and controls",
+        "Monitoring, backups and recovery",
+        "Support for the systems behind your business"
+      ],
+      "industries": [
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/",
+        "https://elatre.com/contact/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/cloud-implementation-services/",
+      "source_html": "research/html/services/software-development-services__cloud-implementation-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-testimonial-video-production",
+      "name": "Testimonial Video Production",
+      "description": "Testimonial video production by Elatre: customer interviews, filming, editing and campaign clips that help buyers understand real customer experiences.",
+      "capabilities": [
+        "What makes a testimonial video worth watching?",
+        "A relevant customer",
+        "An honest account",
+        "A clear place to use it",
+        "What our testimonial video production service includes",
+        "Story selection and brief",
+        "Interview preparation",
+        "Filming and supporting footage",
+        "Story editing and finishing",
+        "Captions and written context",
+        "Versions for distribution",
+        "Customer stories for different decisions"
+      ],
+      "industries": [
+        "B2B"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/case-studies/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/testimonial-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__testimonial-video-production.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-pre-launch-marketing",
+      "name": "Pre-launch Marketing",
+      "description": "Elatre is a pre launch marketing agency for B2B and ecommerce brands. Plan your positioning, waitlist, landing page, creative and launch campaigns.",
+      "capabilities": [
+        "What does a pre-launch marketing agency do?",
+        "Start with one audience",
+        "Give interest a next step",
+        "Record what you learn",
+        "A launch plan with working pages, content and campaigns",
+        "Audience and market research",
+        "Positioning and launch messaging",
+        "Landing pages and waitlists",
+        "Launch creative and content",
+        "Audience and message tests",
+        "Launch readiness and measurement",
+        "Different launches need different kinds of interest"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+        "https://elatre.com/case-studies/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/food-beverage-video-production/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__pre-launch-marketing.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-food-beverage-video-production",
+      "name": "Food & Beverage Video Production",
+      "description": "Food and beverage video production for product launches, recipes, ecommerce and campaigns. Plan filming, photography, editing and distribution with Elatre.",
+      "capabilities": [
+        "Good food content answers more than “Does it look good?”",
+        "Make the product recognizable",
+        "Show a reason to use it",
+        "Build a usable content set",
+        "Video and photography for the way you sell food",
+        "Product and packaging videos",
+        "Recipe and preparation videos",
+        "Brand, people and process films",
+        "Launch and social campaign content",
+        "Food and beverage photography",
+        "Editing and channel versions",
+        "A production brief that understands your customer"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Food and beverage"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+        "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/food-beverage-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__food-beverage-video-production.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-b2b-video-production",
+      "name": "B2B Video Production",
+      "description": "B2B video production for product demos, business films and sales content. Elatre connects planning, filming and editing with your website and campaigns.",
+      "capabilities": [
+        "A useful business video earns its place in the sales process",
+        "One clear job",
+        "Show the useful detail",
+        "Plan the second use",
+        "B2B video production services built around your message",
+        "Company and capability films",
+        "Product and software demonstrations",
+        "Service explainers",
+        "Expert and leadership interviews",
+        "Sales and campaign video assets",
+        "Editing and content repurposing",
+        "Different businesses need different proof"
+      ],
+      "industries": [
+        "B2B"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/testimonial-video-production/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/b2b-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__b2b-video-production.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-ai-cost-optimization",
+      "name": "AI Cost Optimization Services",
+      "description": "AI cost optimization services for LLM applications and cloud workloads. Elatre assesses usage, model choices and infrastructure while tracking output quality.",
+      "capabilities": [
+        "Find the cost of useful work",
+        "What our AI cost optimization service includes",
+        "Usage and cost baseline",
+        "Request and context review",
+        "Model selection and routing",
+        "Caching and processing design",
+        "Infrastructure and retrieval",
+        "Implementation and monitoring",
+        "Different workloads need different cost decisions",
+        "Repeated questions with changing business information",
+        "High volume with different turnaround needs",
+        "Make changes against a baseline you can compare"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/case-studies/",
+        "https://elatre.com/about/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/ai-cost-optimization/",
+      "source_html": "research/html/services/software-development-services__ai-cost-optimization.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-generative-ai-development-services",
+      "name": "Generative AI Development Services",
+      "description": "Generative AI development services for business applications, knowledge search and document workflows. Elatre handles integrations, evaluation and delivery.",
+      "capabilities": [
+        "Define the business task before choosing the model",
+        "What our generative AI development services cover",
+        "Use-case and architecture design",
+        "Knowledge retrieval and RAG",
+        "LLM application development",
+        "Data and system integration",
+        "Evaluation and quality controls",
+        "Deployment and operation",
+        "Practical applications for knowledge and document work",
+        "Find an answer with its supporting material",
+        "Prepare a draft your team can review",
+        "Build around a clear acceptance decision"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+        "https://elatre.com/case-studies/",
+        "https://elatre.com/about/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/generative-ai-development-services/",
+      "source_html": "research/html/services/software-development-services__generative-ai-development-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-ai-chatbot-development-services",
+      "name": "AI Chatbot Development Services",
+      "description": "AI chatbot development services for support, sales and internal teams. Elatre builds grounded answers, CRM integrations and clear handoffs to your people.",
+      "capabilities": [
+        "Start with the conversations your team already handles",
+        "What our AI chatbot development service includes",
+        "Conversation and service design",
+        "Knowledge preparation",
+        "Chatbot development",
+        "Business-system integrations",
+        "Evaluation and release",
+        "Handover and improvement",
+        "Two ways a business can put a chatbot to work",
+        "Answer a product question without guessing",
+        "Help a buyer reach the right specialist",
+        "Move from a bounded pilot to a supported service"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/case-studies/",
+        "https://elatre.com/about/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/ai-chatbot-development-services/",
+      "source_html": "research/html/services/software-development-services__ai-chatbot-development-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-saas-seo-services-usa",
+      "name": "SaaS SEO Services for US Software Companies",
+      "description": "SaaS SEO services for US software companies. Connect product, use-case, integration and comparison content with the questions behind demos and trials.",
+      "capabilities": [
+        "Bring the product into the buyer’s research",
+        "Build the pages that help software buyers evaluate",
+        "Product and market research",
+        "Use-case and solution pages",
+        "Integration and comparison content",
+        "Technical search work",
+        "Trial and demo journeys",
+        "Visibility and pipeline reporting",
+        "Write an integration page a buyer can actually evaluate",
+        "A logo does not describe the workflow",
+        "Explain the setup and the limits",
+        "Make product claims easy to verify"
+      ],
+      "industries": [
+        "SaaS"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/ai-seo-services-usa/",
+        "https://elatre.com/ai-visibility-audit/",
+        "https://elatre.com/b2b-seo-services-usa/",
+        "https://elatre.com/portfolio-item/boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months/"
+      ],
+      "source_url": "https://elatre.com/saas-seo-services-usa/",
+      "source_html": "research/html/services/saas-seo-services-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-shopify-seo-services-usa",
+      "name": "Shopify SEO Services for US Brands",
+      "description": "Shopify SEO services for US brands. Improve collections, product pages, titles and theme details with a practical search plan for the store you already run.",
+      "capabilities": [
+        "A useful audit should tell you where the change belongs",
+        "A practical combination of content and store work",
+        "Collection search strategy",
+        "Product page guidance",
+        "Titles and descriptions",
+        "Theme and app review",
+        "Navigation and page changes",
+        "Validation and reporting",
+        "Improve a work-bag collection without creating a second catalog",
+        "A product grid with little guidance",
+        "Make the selection easier to judge",
+        "Know what the listing editor can—and cannot—do"
+      ],
+      "industries": [
+        "Shopify merchants"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/wp-content/uploads/2026/10/shopify-collection-search-listing-editor.png",
+        "https://elatre.com/ai-seo-services-usa/",
+        "https://elatre.com/ai-visibility-audit/",
+        "https://elatre.com/ecommerce-seo-services-usa/",
+        "https://elatre.com/portfolio-item/brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months/"
+      ],
+      "source_url": "https://elatre.com/shopify-seo-services-usa/",
+      "source_html": "research/html/services/shopify-seo-services-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-ecommerce-seo-services-usa",
+      "name": "Ecommerce SEO Services for US Online Stores",
+      "description": "Ecommerce SEO services for US online stores. Improve category pages, product information, site navigation and search visibility around your priority inventory.",
+      "capabilities": [
+        "A shopper needs a good answer before a checkout button",
+        "Treat the catalog as a connected system",
+        "Category and collection strategy",
+        "Product information",
+        "Crawling and navigation",
+        "Product data consistency",
+        "Mobile shopping pages",
+        "Commercial reporting",
+        "Make a linen bedding collection easier to evaluate",
+        "“Premium comfort for every bedroom”",
+        "Selection, specifications and fit",
+        "Make the information agree wherever it appears"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Shopify merchants"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/ai-seo-services-usa/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/ai-visibility-audit/",
+        "https://elatre.com/shopify-seo-services-usa/",
+        "https://elatre.com/portfolio-item/brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months/"
+      ],
+      "source_url": "https://elatre.com/ecommerce-seo-services-usa/",
+      "source_html": "research/html/services/ecommerce-seo-services-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-b2b-seo-services-usa",
+      "name": "B2B SEO Services for US Companies",
+      "description": "B2B SEO services for US companies. Elatre connects buyer research, technical content and website improvements with qualified inquiries and sales follow-up.",
+      "capabilities": [
+        "From a limited online catalog to a stronger quote process",
+        "14,800",
+        "38",
+        "8 → 134",
+        "A serious buyer needs more than a list of services",
+        "Company fit",
+        "Project fit",
+        "A useful next step",
+        "What your B2B search program includes",
+        "Buyer and keyword research",
+        "Service and solution content",
+        "Technical and on-page implementation"
+      ],
+      "industries": [
+        "B2B"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/portfolio-item/houston-industrial-valves-distributor-how-we-grew-monthly-online-quote-requests-from-8-to-134-in-9-months/",
+        "https://elatre.com/saas-seo-services-usa/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/ai-seo-services-usa/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+        "https://elatre.com/software-development-services/website-development/"
+      ],
+      "source_url": "https://elatre.com/b2b-seo-services-usa/",
+      "source_html": "research/html/services/b2b-seo-services-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-ai-seo-services-usa",
+      "name": "AI SEO & GEO Services for US Businesses",
+      "description": "AI SEO services for US B2B and ecommerce brands. Connect technical SEO, useful content and GEO with clear reporting on search visibility and inquiries.",
+      "capabilities": [
+        "Make your business easier to understand and evaluate",
+        "From the initial audit to changes on your website",
+        "Buyer and search research",
+        "Technical access",
+        "Service and product content",
+        "Structured information",
+        "Evidence buyers can inspect",
+        "Visibility and conversion reporting",
+        "Different buyers need different answers",
+        "A US implementation partner selling to B2B teams",
+        "A Shopify store selling home products in the US",
+        "What the first 90 days can cover"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce",
+        "Shopify merchants"
+      ],
+      "related_pages": [
+        "https://elatre.com/ai-visibility-audit/",
+        "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/about/",
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/b2b-seo-services-usa/",
+        "https://elatre.com/saas-seo-services-usa/",
+        "https://elatre.com/ecommerce-seo-services-usa/",
+        "https://elatre.com/shopify-seo-services-usa/",
+        "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/",
+        "https://elatre.com/case-studies/"
+      ],
+      "source_url": "https://elatre.com/ai-seo-services-usa/",
+      "source_html": "research/html/services/ai-seo-services-usa.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-website-development",
+      "name": "Website development services",
+      "description": "Web development services for business websites and ecommerce stores. Elatre combines UX, development, SEO and ongoing support to turn visits into inquiries.",
+      "capabilities": [
+        "The same website, loaded two ways",
+        "Why website performance matters",
+        "We measure what matters.",
+        "What your website project includes",
+        "Why businesses choose Elatre for web development",
+        "Website results in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/portfolio-item/brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/request-a-proposal/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/website-development/",
+      "source_html": "research/html/services/software-development-services__website-development.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-mobile-app-development-ios-and-android",
+      "name": "Mobile app development, iOS and Android",
+      "description": "A mobile app development company for iOS and Android. Elatre handles prototypes, integrations, development, store submissions and ongoing app support.",
+      "capabilities": [
+        "Your app, on a phone, working",
+        "Apps your customers keep on their home screen",
+        "We measure what matters.",
+        "What our mobile app development services include",
+        "We build apps people open twice",
+        "App results in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/",
+      "source_html": "research/html/services/software-development-services__mobile-app-development-ios-and-android.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-custom-software-development",
+      "name": "Custom software development services",
+      "description": "Custom software development services for portals, internal tools and SaaS. Elatre connects workflows, data and systems from discovery to ongoing support.",
+      "capabilities": [
+        "This is the kind of tool we build for you",
+        "Software that fits how you actually work",
+        "We measure what matters.",
+        "What our custom software services include",
+        "We say no to features that will not pay",
+        "Custom builds in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [
+        "SaaS"
+      ],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/",
+        "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/",
+        "https://elatre.com/software-development-services/ai-automation-and-ai-agents/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/custom-software-development/",
+      "source_html": "research/html/services/software-development-services__custom-software-development.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-crm-automation-and-integration",
+      "name": "CRM Implementation & Salesforce Sales Cloud Consulting",
+      "description": "CRM implementation and Salesforce Sales Cloud consulting from Elatre. Connect HubSpot, ERP, billing and AI workflows with migration, testing and team training.",
+      "capabilities": [
+        "A useful CRM starts with how your business works",
+        "One agreed sales process",
+        "Data that stays connected",
+        "A practical handover",
+        "CRM implementation services and platform specializations",
+        "1. Salesforce Sales Cloud consulting",
+        "2. HubSpot Enterprise implementation and migration",
+        "3. Custom middleware, ERP and billing integration",
+        "4. AI CRM automation and sales copilots",
+        "A CRM rollout your team can follow",
+        "Map the process and prepare the data",
+        "Configure, connect and test real scenarios"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/software-development-services/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/",
+        "https://elatre.com/software-development-services/software-testing-qa-services/",
+        "https://elatre.com/software-development-services/cloud-implementation-services/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/crm-automation-and-integration/",
+      "source_html": "research/html/services/software-development-services__crm-automation-and-integration.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services-ai-automation-and-ai-agents",
+      "name": "AI automation and AI agent services",
+      "description": "AI agent development services for support, operations and connected workflows. Elatre plans integrations, tests real tasks and builds in human oversight.",
+      "capabilities": [
+        "Listen in on a call your AI agent could take today",
+        "AI that does real work, not demos",
+        "We measure what matters.",
+        "What your AI agent project includes",
+        "Our own companies run on these agents",
+        "Automation results in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+        "https://elatre.com/software-development-services/ai-chatbot-development-services/",
+        "https://elatre.com/software-development-services/generative-ai-development-services/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+      "source_html": "research/html/services/software-development-services__ai-automation-and-ai-agents.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-software-development-services",
+      "name": "Software development services",
+      "description": "Software development services for websites, mobile apps, custom platforms, AI agents and CRM integrations. Get a clear scope, phased delivery and support.",
+      "capabilities": [
+        "Pick a build. See the plan.",
+        "We build the software your business runs on",
+        "We measure what matters.",
+        "Software development services",
+        "Website design and development",
+        "Custom software development",
+        "AI automation and agents",
+        "CRM automation",
+        "Mobile app development",
+        "We build like owners, not vendors",
+        "Frequently Asked Questions"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/enterprise-ai-governance-data-readiness-consulting/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/telemedicine-software-development-services/",
+        "https://elatre.com/outsourcing-saas-development-custom-php-engineering/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/software-development-services/custom-software-development/",
+        "https://elatre.com/software-development-services/ai-chatbot-development-services/",
+        "https://elatre.com/software-development-services/generative-ai-development-services/",
+        "https://elatre.com/software-development-services/ai-cost-optimization/",
+        "https://elatre.com/software-development-services/ai-automation-and-ai-agents/",
+        "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/"
+      ],
+      "source_url": "https://elatre.com/software-development-services/",
+      "source_html": "research/html/services/software-development-services.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-social-media-marketing",
+      "name": "Social Media Marketing Agency",
+      "description": "Work with a social media marketing agency for strategy, content, video, community management and paid campaigns. Build a clear plan with Elatre.",
+      "capabilities": [
+        "Your social media should answer the questions buyers actually ask",
+        "Content with a clear purpose",
+        "A reliable approval process",
+        "Reporting that guides the next month",
+        "Social media services built around your audience",
+        "Social media strategy and planning",
+        "Writing and visual content",
+        "Short video, photography and editing",
+        "Publishing and community management",
+        "Paid social campaign management",
+        "Reporting and content improvements",
+        "Show the detail that helps your customers decide"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/request-a-proposal/",
+        "https://elatre.com/digital-marketing-services/",
+        "https://elatre.com/digital-marketing-services/video-production-company/",
+        "https://elatre.com/digital-marketing-services/photo-editing-services/",
+        "https://elatre.com/digital-marketing-services/multi-location-marketing/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/social-media-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__social-media-marketing.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-seo-services-for-google-and-ai-search",
+      "name": "SEO services for Google and AI search",
+      "description": "SEO services for search visibility and qualified leads. Elatre combines keyword strategy, technical improvements, useful content and reporting tied to revenue.",
+      "capabilities": [
+        "Watch your business take the #1 spot on Google",
+        "SEO that brings buyers, not just traffic",
+        "We measure what matters.",
+        "What your search growth program includes",
+        "SEO run like an investment",
+        "SEO results in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce",
+        "SaaS"
+      ],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/ai-visibility-audit/",
+        "https://elatre.com/b2b-seo-services-usa/",
+        "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/",
+        "https://elatre.com/ecommerce-seo-services-usa/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/shopify-seo-services-usa/",
+        "https://elatre.com/saas-seo-services-usa/",
+        "https://elatre.com/portfolio-item/boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/",
+      "source_html": "research/html/services/digital-marketing-services__seo-services-for-google-and-ai-search.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-paid-ads-and-ppc-management",
+      "name": "Paid ads and PPC management services",
+      "description": "PPC management services for Google, Meta, TikTok and shopping ads. Elatre connects campaign strategy, landing pages and tracking to your CAC and ROAS goals.",
+      "capabilities": [
+        "What 12 weeks of real management does to an ad account",
+        "Every dollar has a job before we spend it",
+        "We measure what matters.",
+        "What our PPC management services include",
+        "We treat your budget like our own money",
+        "Paid ads results in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/software-development-services/website-development/",
+        "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/",
+        "https://elatre.com/portfolio-item/brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months/",
+        "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+      "source_html": "research/html/services/digital-marketing-services__paid-ads-and-ppc-management.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-ecommerce-marketing",
+      "name": "Ecommerce marketing services",
+      "description": "An ecommerce marketing agency for Shopify, WooCommerce and Amazon brands. Elatre connects SEO, paid ads, email and conversion work to orders and repeat sales.",
+      "capabilities": [
+        "Watch a store grow over 6 months",
+        "We grow orders first, then traffic",
+        "We measure what matters.",
+        "What our ecommerce marketing services include",
+        "We grow revenue, not just traffic",
+        "Store growth in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Shopify merchants",
+        "Amazon marketplace sellers and vendors"
+      ],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/ecommerce-seo-services-usa/",
+        "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+        "https://elatre.com/portfolio-item/brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months/",
+        "https://elatre.com/shopify-seo-services-usa/",
+        "https://elatre.com/software-development-services/website-development/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__ecommerce-marketing.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-b2b-marketing-and-lead-generation",
+      "name": "B2B marketing and lead gen services",
+      "description": "A B2B marketing agency connecting search, paid media, content and outreach. Elatre builds lead generation around buyer fit, sales handoff and pipeline growth.",
+      "capabilities": [
+        "Everything inside B2B marketing",
+        "Leads your sales team actually wants to call",
+        "We measure what matters.",
+        "What our B2B marketing services include",
+        "We grew our own pipeline this way",
+        "Frequently Asked Questions"
+      ],
+      "industries": [
+        "B2B"
+      ],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/digital-marketing-services/paid-ads-and-ppc-management/",
+        "https://elatre.com/digital-marketing-services/social-media-marketing/",
+        "https://elatre.com/b2b-seo-services-usa/",
+        "https://elatre.com/portfolio-item/boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months/",
+        "https://elatre.com/software-development-services/crm-automation-and-integration/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/b2b-marketing-and-lead-generation/",
+      "source_html": "research/html/services/digital-marketing-services__b2b-marketing-and-lead-generation.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services-ai-seo-chatgpt-gemini-search-ranking",
+      "name": "AI SEO services",
+      "description": "Generative engine optimization services for AI search visibility. Elatre improves page clarity, search foundations and citation reporting across AI platforms.",
+      "capabilities": [
+        "The same AI answer, with and without AI SEO",
+        "Make your expertise easier to find in AI search",
+        "We measure what matters.",
+        "What a GEO engagement includes",
+        "We connect AI SEO with real search, content, and conversion",
+        "Frequently Asked Questions"
+      ],
+      "industries": [],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/ai-visibility-audit/",
+        "https://elatre.com/ai-seo-services-usa/",
+        "https://elatre.com/digital-marketing-services/seo-services-for-google-and-ai-search/",
+        "https://elatre.com/portfolio-item/boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/",
+      "source_html": "research/html/services/digital-marketing-services__ai-seo-chatgpt-gemini-search-ranking.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "service-digital-marketing-services",
+      "name": "Digital marketing services",
+      "description": "Digital marketing services for B2B and ecommerce businesses: SEO, AI search, paid ads, social media and email, with reporting tied to leads and sales.",
+      "capabilities": [
+        "Build your first 90 day marketing mix",
+        "All your marketing from one in-house team",
+        "We measure what matters.",
+        "Digital marketing services we run in-house",
+        "Why work with Elatre for digital marketing",
+        "SEO results in our clients' words",
+        "Frequently Asked Questions",
+        "Explore video and photo services"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce"
+      ],
+      "related_pages": [
+        "https://elatre.com/contact/",
+        "https://elatre.com/b2b-seo-services-usa/",
+        "https://elatre.com/saas-seo-services-usa/",
+        "https://elatre.com/ecommerce-seo-services-usa/",
+        "https://elatre.com/shopify-seo-services-usa/",
+        "https://elatre.com/ai-seo-services-usa/",
+        "https://elatre.com/digital-marketing-services/b2b-video-production/",
+        "https://elatre.com/digital-marketing-services/testimonial-video-production/",
+        "https://elatre.com/digital-marketing-services/food-beverage-video-production/",
+        "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+        "https://elatre.com/digital-marketing-services/home-improvement-marketing/",
+        "https://elatre.com/digital-marketing-services/multi-location-marketing/"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/",
+      "source_html": "research/html/services/digital-marketing-services.html",
+      "verification_status": "verified"
+    }
+  ],
+  "verification_status": "verified"
+}

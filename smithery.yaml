@@ -1,0 +1,30 @@
+# Local stdio launch for the published npm package.
+# Fields follow the Smithery startCommand document used by current stdio listings:
+# type, configSchema, commandFunction, and exampleConfig.
+# https://smithery.ai/docs/config#smitheryyaml
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    required: []
+    properties:
+      logLevel:
+        type: string
+        enum:
+          - error
+          - warn
+          - info
+          - debug
+        default: info
+        description: Log level written to stderr. The server never writes logs to stdout.
+  exampleConfig:
+    logLevel: info
+  commandFunction: |-
+    (config) => ({
+      command: "npx",
+      args: ["-y", "@neo-elatre/mcp-enterprise-rbac-auditor"],
+      env: {
+        MCP_TRANSPORT: "stdio",
+        LOG_LEVEL: config.logLevel || "info"
+      }
+    })

@@ -1,0 +1,119 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "emails": [
+    {
+      "address": "info@elatre.com",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    },
+    {
+      "address": "hr@elatre.com",
+      "label": "Published hiring address",
+      "source_url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/",
+      "verification_status": "verified"
+    },
+    {
+      "address": "hiring@elatre.com",
+      "label": "Published hiring address",
+      "source_url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/",
+      "verification_status": "verified"
+    }
+  ],
+  "phones": [
+    {
+      "display": "+1 646 755 2633",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    },
+    {
+      "display": "+16467552633",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    }
+  ],
+  "offices": [
+    {
+      "label": "Houston, Texas",
+      "street_address": "13201 Northwest Freeway, Suite 800",
+      "locality": "Houston",
+      "region": "TX",
+      "postal_code": "77040",
+      "country": "United States",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    },
+    {
+      "label": "New York, New York",
+      "street_address": "99 Wall Street #3679",
+      "locality": "New York",
+      "region": "NY",
+      "postal_code": "10005",
+      "country": "United States",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    }
+  ],
+  "scheduling": [
+    {
+      "network": "Calendly",
+      "url": "https://calendly.com/elatre/divya",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    }
+  ],
+  "contact_page": "https://elatre.com/contact/",
+  "proposal_page": "https://elatre.com/request-a-proposal/",
+  "leadership": [
+    {
+      "name": "Divya Krishnamoorthy",
+      "role_as_published": "Founder and CEO",
+      "evidence": "Public image filename on the homepage includes 'Divya-Krishnamoorthy-Founder-and-CEO-of-Elatre'. Visible copy also says 'Founder-led' and 'Direct access to Divya'. The image alt attribute in the fetched homepage was empty.",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified_from_public_filename_and_page_copy"
+    }
+  ],
+  "social_profiles": [
+    {
+      "network": "Facebook",
+      "url": "https://www.facebook.com/ElatreOfficial",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    },
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/elatreofficial/",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    },
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/company/elatre/",
+      "source_url": "https://elatre.com/",
+      "verification_status": "verified"
+    }
+  ],
+  "verification_status": "verified",
+  "legal_entities": [
+    {
+      "name": "Elatre LLC",
+      "source_url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/",
+      "verification_status": "verified"
+    },
+    {
+      "name": "Elatre Solutions Private Limited",
+      "source_url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/",
+      "verification_status": "verified"
+    }
+  ],
+  "public_notices": [
+    {
+      "title": "Do not engage with scammers sending fake Elatre job offers by phone or WhatsApp",
+      "url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/",
+      "source_html": "research/html/other-pages/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp.html",
+      "summary": "The page says Elatre LLC and Elatre Solutions Private Limited do not recruit through unsolicited phone calls or WhatsApp, and that hiring messages come from hr@elatre.com or hiring@elatre.com.",
+      "verification_status": "verified"
+    }
+  ]
+}

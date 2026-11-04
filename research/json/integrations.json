@@ -1,0 +1,319 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "note": "No public integration directory or partner API catalog was found. Entries are platforms named in public copy.",
+  "integrations": [
+    {
+      "id": "integration-hubspot",
+      "name": "HubSpot",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Custom AI Agent Development & HubSpot/Shopify Automation",
+          "url": "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/"
+        },
+        {
+          "page": "CRM Implementation & Salesforce Sales Cloud Consulting",
+          "url": "https://elatre.com/software-development-services/crm-automation-and-integration/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-shopify",
+      "name": "Shopify",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "AI Ecommerce Optimization Consulting",
+          "url": "https://elatre.com/ai-ecommerce-optimization-amazon-seller-vendor-consulting/"
+        },
+        {
+          "page": "Next.js, Headless WordPress & Shopify Migration Agency (Zero SEO Drop)",
+          "url": "https://elatre.com/nextjs-headless-shopify-migration-seo-agency/"
+        },
+        {
+          "page": "Custom AI Agent Development & HubSpot/Shopify Automation",
+          "url": "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/"
+        },
+        {
+          "page": "Shopify SEO Services for US Brands",
+          "url": "https://elatre.com/shopify-seo-services-usa/"
+        },
+        {
+          "page": "Ecommerce SEO Services for US Online Stores",
+          "url": "https://elatre.com/ecommerce-seo-services-usa/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-wordpress",
+      "name": "WordPress",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Next.js, Headless WordPress & Shopify Migration Agency (Zero SEO Drop)",
+          "url": "https://elatre.com/nextjs-headless-shopify-migration-seo-agency/"
+        },
+        {
+          "page": "AI SEO & GEO Services for US Businesses",
+          "url": "https://elatre.com/ai-seo-services-usa/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-next-js",
+      "name": "Next.js",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "SaaS Development Outsourcing Services",
+          "url": "https://elatre.com/outsourcing-saas-development-custom-php-engineering/"
+        },
+        {
+          "page": "Next.js, Headless WordPress & Shopify Migration Agency (Zero SEO Drop)",
+          "url": "https://elatre.com/nextjs-headless-shopify-migration-seo-agency/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-amazon-seller-central",
+      "name": "Amazon Seller Central",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "AI Ecommerce Optimization Consulting",
+          "url": "https://elatre.com/ai-ecommerce-optimization-amazon-seller-vendor-consulting/"
+        },
+        {
+          "page": "Amazon Seller Central Consulting",
+          "url": "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-amazon-vendor-central",
+      "name": "Amazon Vendor Central",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Amazon Vendor Central Consulting",
+          "url": "https://elatre.com/digital-marketing-services/amazon-vendor-central-consulting/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-chatgpt",
+      "name": "ChatGPT",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "#1 Generative Engine Optimization (GEO) & AI SEO Agency USA",
+          "url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/"
+        },
+        {
+          "page": "AI SEO & GEO Services for US Businesses",
+          "url": "https://elatre.com/ai-seo-services-usa/"
+        },
+        {
+          "page": "AI visibility audit",
+          "url": "https://elatre.com/ai-visibility-audit/"
+        },
+        {
+          "page": "AI SEO services",
+          "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/"
+        },
+        {
+          "page": "Elatre marketing & software agency | AI, SEO, Social Media, and ads",
+          "url": "https://elatre.com/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-gemini",
+      "name": "Gemini",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Custom AI Agent Development & HubSpot/Shopify Automation",
+          "url": "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/"
+        },
+        {
+          "page": "#1 Generative Engine Optimization (GEO) & AI SEO Agency USA",
+          "url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/"
+        },
+        {
+          "page": "AI SEO services",
+          "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/"
+        },
+        {
+          "page": "Elatre marketing & software agency | AI, SEO, Social Media, and ads",
+          "url": "https://elatre.com/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-claude",
+      "name": "Claude",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Custom AI Agent Development & HubSpot/Shopify Automation",
+          "url": "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/"
+        },
+        {
+          "page": "#1 Generative Engine Optimization (GEO) & AI SEO Agency USA",
+          "url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/"
+        },
+        {
+          "page": "AI SEO services",
+          "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/"
+        },
+        {
+          "page": "Elatre marketing & software agency | AI, SEO, Social Media, and ads",
+          "url": "https://elatre.com/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-perplexity",
+      "name": "Perplexity",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "#1 Generative Engine Optimization (GEO) & AI SEO Agency USA",
+          "url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/"
+        },
+        {
+          "page": "AI SEO services",
+          "url": "https://elatre.com/digital-marketing-services/ai-seo-chatgpt-gemini-search-ranking/"
+        },
+        {
+          "page": "Elatre marketing & software agency | AI, SEO, Social Media, and ads",
+          "url": "https://elatre.com/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-salesforce",
+      "name": "Salesforce",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Custom AI Agent Development & HubSpot/Shopify Automation",
+          "url": "https://elatre.com/custom-ai-agent-development-hubspot-shopify-automation/"
+        },
+        {
+          "page": "CRM Implementation & Salesforce Sales Cloud Consulting",
+          "url": "https://elatre.com/software-development-services/crm-automation-and-integration/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-woocommerce",
+      "name": "WooCommerce",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Ecommerce SEO Services for US Online Stores",
+          "url": "https://elatre.com/ecommerce-seo-services-usa/"
+        },
+        {
+          "page": "AI SEO & GEO Services for US Businesses",
+          "url": "https://elatre.com/ai-seo-services-usa/"
+        },
+        {
+          "page": "Ecommerce marketing services",
+          "url": "https://elatre.com/digital-marketing-services/ecommerce-marketing/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-ios",
+      "name": "iOS",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Photo Editing Services",
+          "url": "https://elatre.com/digital-marketing-services/photo-editing-services/"
+        },
+        {
+          "page": "Mobile app development, iOS and Android",
+          "url": "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/"
+        },
+        {
+          "page": "Salt Lake City fitness franchise network: how we built a custom multi-tenant SaaS platform for 84 studios in 10 months",
+          "url": "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-android",
+      "name": "Android",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "Mobile app development, iOS and Android",
+          "url": "https://elatre.com/software-development-services/mobile-app-development-ios-and-android/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    },
+    {
+      "id": "integration-php",
+      "name": "PHP",
+      "description": "Named in public Elatre page copy. This is a published mention, not a claim that a formal integration product or partner listing exists.",
+      "documentation_url": null,
+      "evidence_pages": [
+        {
+          "page": "SaaS Development Outsourcing Services",
+          "url": "https://elatre.com/outsourcing-saas-development-custom-php-engineering/"
+        }
+      ],
+      "source": "Public page titles, URLs, or content summaries",
+      "verification_status": "verified_mention"
+    }
+  ],
+  "verification_status": "verified_mention"
+}

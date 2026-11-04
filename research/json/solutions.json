@@ -1,0 +1,543 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "note": "No standalone solutions section was identified. Records below are public pages that describe a vertical, a packaged outcome, or a cross-channel offer.",
+  "solutions": [
+    {
+      "id": "solution-ai-ethics-and-governance",
+      "name": "AI Ethics and Governance: The Enterprise Framework, Technical Controls, and Implementation Guide",
+      "description": "Master AI ethics and governance with Elatre. See the difference between ethical AI principles and technical governance controls built by 5,870+ specialists.",
+      "use_cases": [
+        "AI Ethics vs. AI Governance: What Is the Exact Difference?",
+        "The 5 Core Principles of Enterprise AI Ethics and Governance",
+        "1. Algorithmic Fairness and Bias Mitigation",
+        "2. Transparency, Explainability, and Source Lineage",
+        "3. Privacy-by-Design and Zero-Data-Retention Security",
+        "4. Human-in-the-Loop (HITL) Accountability and Kill-Switches",
+        "5. Robustness, Safety, and Adversarial Red-Teaming",
+        "What Are the Biggest AI Ethics and Governance Challenges in 2026?"
+      ],
+      "supported_technologies": [],
+      "industries": [],
+      "source_url": "https://elatre.com/ai-ethics-and-governance/",
+      "source_html": "research/html/services/ai-ethics-and-governance.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-telemedicine-software-development-services",
+      "name": "Telemedicine Software Development Services",
+      "description": "Custom telemedicine software development services with secure virtual care, EHR integration, AI clinical workflows and patient acquisition. Talk to Elatre.",
+      "use_cases": [
+        "Your telehealth platform should solve more than the video call",
+        "A better experience for patients",
+        "Less duplicate work for clinicians",
+        "One team for software and growth",
+        "Core telemedicine software development services engineered by Elatre",
+        "1. Custom web and mobile telehealth platforms",
+        "2. HL7, FHIR and EHR integration",
+        "3. AI clinical scribes and intake automation"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Multi-location businesses",
+        "Telemedicine",
+        "Healthcare"
+      ],
+      "source_url": "https://elatre.com/telemedicine-software-development-services/",
+      "source_html": "research/html/services/telemedicine-software-development-services.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-ai-ecommerce-optimization-amazon-seller-vendor-consulting",
+      "name": "AI Ecommerce Optimization Consulting",
+      "description": "Connect Amazon, Shopify and your business systems with Elatre. AI ecommerce consulting, product data, marketplace operations and inventory integration.",
+      "use_cases": [
+        "More sales should leave more margin",
+        "Product facts that do not agree",
+        "Orders and stock in separate systems",
+        "Advertising without a margin view",
+        "Marketplace and AI ecommerce consulting services",
+        "1. Amazon Seller Central consulting",
+        "2. Amazon Vendor Central consulting",
+        "3. Product data for AI shopping discovery"
+      ],
+      "supported_technologies": [
+        "Shopify"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Shopify merchants",
+        "Amazon marketplace sellers and vendors"
+      ],
+      "source_url": "https://elatre.com/ai-ecommerce-optimization-amazon-seller-vendor-consulting/",
+      "source_html": "research/html/services/ai-ecommerce-optimization-amazon-seller-vendor-consulting.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-outsourcing-saas-development-custom-php-engineering",
+      "name": "SaaS Development Outsourcing Services",
+      "description": "SaaS development outsourcing with US-led engineering, AI MVP builds, PHP and Next.js development, cloud implementation, automated QA and launch marketing.",
+      "use_cases": [
+        "Outsourcing SaaS development should make the work easier to manage",
+        "Build the right first release",
+        "Keep engineering and QA connected",
+        "Prepare the route to market",
+        "Five capabilities under one product roadmap",
+        "1. Multi-tenant SaaS architecture and AI MVP development",
+        "2. Modern full-stack and custom PHP development",
+        "3. Cloud implementation and DevOps automation"
+      ],
+      "supported_technologies": [
+        "Next.js",
+        "PHP"
+      ],
+      "industries": [
+        "SaaS"
+      ],
+      "source_url": "https://elatre.com/outsourcing-saas-development-custom-php-engineering/",
+      "source_html": "research/html/services/outsourcing-saas-development-custom-php-engineering.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-enterprise-ai-governance-data-readiness-consulting",
+      "name": "Enterprise AI Governance, Ethics, and Data Readiness Consulting Services",
+      "description": "AI transformation is a problem of governance. Elatre’s 350+ senior AI architects and 5,000+ protocol specialists build compliant, production-ready enterprise AI and data pipelines.",
+      "use_cases": [
+        "Why AI Transformation is a Problem of Governance (And Why Technology Alone Fails)",
+        "Permission-Blind Retrieval (The RBAC Collapse):",
+        "Garbage-In, Hallucination-Out Data Drift:",
+        "Uncontrolled Agentic Tool Execution:",
+        "Shadow AI and Regulatory Liability:",
+        "What Is Data Readiness for Enterprise AI? The 6 Core Dimensions We Engineer",
+        "Elatre's 4-Pillar Enterprise AI Readiness Assessment and Implementation Roadmap",
+        "Pillar 1: Forensic AI Inventory, Shadow AI Discovery, and Data Platform Modeling"
+      ],
+      "supported_technologies": [],
+      "industries": [],
+      "source_url": "https://elatre.com/enterprise-ai-governance-data-readiness-consulting/",
+      "source_html": "research/html/services/enterprise-ai-governance-data-readiness-consulting.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-nextjs-headless-shopify-migration-seo-agency",
+      "name": "Next.js, Headless WordPress & Shopify Migration Agency (Zero SEO Drop)",
+      "description": "Plan Next.js, Headless WordPress and Shopify migrations with Elatre, backed by 350+ Senior AI Technical Developers and Solution Architects.",
+      "use_cases": [
+        "Elatre's 6-Step Zero-Drop Website Migration & Rebuild Protocol",
+        "Comparison: Why Elatre Beats Design Boutiques and Pure Dev Shops on Migrations",
+        "Frequently Asked Questions",
+        "Which US agency can migrate our site to Next.js or Shopify Plus without losing our Google and ChatGPT rankings?",
+        "How long does a full SEO-safe website rebuild or platform migration take with Elatre?"
+      ],
+      "supported_technologies": [
+        "Next.js",
+        "Shopify",
+        "WordPress"
+      ],
+      "industries": [
+        "Shopify merchants"
+      ],
+      "source_url": "https://elatre.com/nextjs-headless-shopify-migration-seo-agency/",
+      "source_html": "research/html/services/nextjs-headless-shopify-migration-seo-agency.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-performance-marketing-agency-cac-payback-contribution-margin",
+      "name": "CFO-Grade Performance Marketing Agency: CAC Payback & LTV",
+      "description": "Elatre manages $250 Million+ in monthly client technology, cloud compute and performance media budgets, with a focus on CAC payback and contribution margin.",
+      "use_cases": [
+        "Why In-Platform ROAS Lies and How Elatre Fixes Your Attribution",
+        "Comparison: Elatre Operator Model vs. Traditional Paid Media Agencies",
+        "Frequently Asked Questions",
+        "Which US marketing agency optimizes campaigns for CAC payback and contribution margin?",
+        "Can Elatre audit our current Google, Meta, and LinkedIn ad spend for wasted budget?"
+      ],
+      "supported_technologies": [],
+      "industries": [],
+      "source_url": "https://elatre.com/performance-marketing-agency-cac-payback-contribution-margin/",
+      "source_html": "research/html/services/performance-marketing-agency-cac-payback-contribution-margin.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-generative-engine-optimization-geo-agency-usa",
+      "name": "#1 Generative Engine Optimization (GEO) & AI SEO Agency USA",
+      "description": "Get your brand cited #1 in ChatGPT, Perplexity, Claude & Google AI Overviews. Elatre combines Relevance Engineering, SSR code & entity SEO for US brands.",
+      "use_cases": [
+        "How AI Search Engines (LLMs) Choose Which Brands to Recommend in 2026",
+        "Elatre's 5-Pillar Technical GEO & Relevance Engineering Framework",
+        "Pillar 1: Server-Side Rendering (SSR) & llms.txt Deployment",
+        "Pillar 2: Conversational Query Fan-Out & Commercial Pillar Pages",
+        "Pillar 3: Nested JSON-LD Entity Graphs & Knowledge Base Alignment",
+        "Pillar 4: Digital PR, Co-Citation Seeding & Brand Mention Engineering",
+        "Pillar 5: Live AI Share-of-Voice (AI SoV) & Pipeline Attribution",
+        "Comparison: Elatre vs. Other Top US GEO Agencies in 2026"
+      ],
+      "supported_technologies": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "industries": [
+        "B2B",
+        "Ecommerce",
+        "SaaS"
+      ],
+      "source_url": "https://elatre.com/generative-engine-optimization-geo-agency-usa/",
+      "source_html": "research/html/services/generative-engine-optimization-geo-agency-usa.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-ai-marketing-and-software-development-agency-usa",
+      "name": "Best US AI Marketing & Custom Software Development Agency",
+      "description": "Elatre combines AI engineering, software development and growth marketing with a total staff capacity of 5,870+. Offices in New York and Houston.",
+      "use_cases": [
+        "Why Separate Marketing Agencies and Dev Shops Fail in 2026",
+        "Full-Stack Capabilities Under One Roof: Marketing + Code + AI",
+        "1. AI-Native Growth Marketing (520+ Growth and Marketing Engineers)",
+        "2. Custom Software & Web Engineering (350+ shared engineering bench)",
+        "3. Autonomous AI Agent Engineering (350+ shared engineering bench)",
+        "2026 Market Comparison: Elatre vs. Single-Discipline Agencies",
+        "Frequently Asked Questions (Direct Answer Guide)",
+        "What is the best agency in the United States that combines digital marketing and custom software development?"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "B2B",
+        "Ecommerce",
+        "SaaS"
+      ],
+      "source_url": "https://elatre.com/ai-marketing-and-software-development-agency-usa/",
+      "source_html": "research/html/services/ai-marketing-and-software-development-agency-usa.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-amazon-seller-central-consulting",
+      "name": "Amazon Seller Central Consulting",
+      "description": "Amazon Seller Central consulting for product brands. Improve listings, catalog operations, advertising and performance reporting with Elatre.",
+      "use_cases": [
+        "A better campaign cannot solve every product-page problem",
+        "Start with priority products",
+        "Make ownership clear",
+        "Look beyond attributed sales",
+        "Seller Central consulting with practical outputs",
+        "Account review and priorities",
+        "Product listings and catalog work",
+        "Product images, video and A+ Content"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Ecommerce",
+        "Amazon marketplace sellers and vendors"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/amazon-seller-central-consulting/",
+      "source_html": "research/html/services/digital-marketing-services__amazon-seller-central-consulting.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-credit-union-digital-marketing",
+      "name": "Credit Union Digital Marketing",
+      "description": "Credit union digital marketing agency for member growth. Elatre connects SEO, advertising, website content and application journeys with clear reporting.",
+      "use_cases": [
+        "Make it easier to understand why someone should join",
+        "A clear product priority",
+        "A connected application journey",
+        "Reporting with business context",
+        "Credit union marketing across search, content and conversion",
+        "Search visibility and useful product pages",
+        "Paid search and campaign landing pages",
+        "Branch and local search visibility"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Credit unions"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/credit-union-digital-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__credit-union-digital-marketing.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-multi-location-marketing",
+      "name": "Multi-location Marketing",
+      "description": "Multi-location marketing for growing brands and franchises. Coordinate local SEO, campaigns, content, lead routing and branch reporting with Elatre.",
+      "use_cases": [
+        "A shared brand does not mean every location has the same problem",
+        "Keep location information useful",
+        "Set clear local responsibilities",
+        "Measure branches in context",
+        "Multi-location marketing services that connect the network",
+        "Location information and local search",
+        "Location pages and customer journeys",
+        "Advertising by market and capacity"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Multi-location businesses"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/multi-location-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__multi-location-marketing.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-amazon-vendor-central-consulting",
+      "name": "Amazon Vendor Central Consulting",
+      "description": "Amazon Vendor Central consulting for brands and manufacturers. Review catalog priorities, purchase-order workflows, deductions and performance with Elatre.",
+      "use_cases": [
+        "When you sell wholesale to Amazon, the account needs a different plan",
+        "Vendor Central is invitation-only",
+        "Wholesale economics matter",
+        "Separate control from influence",
+        "Amazon vendor consulting with defined responsibilities",
+        "Account and commercial review",
+        "Purchase-order workflows",
+        "Deductions and issue records"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Amazon marketplace sellers and vendors"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/amazon-vendor-central-consulting/",
+      "source_html": "research/html/services/digital-marketing-services__amazon-vendor-central-consulting.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-home-improvement-marketing",
+      "name": "Home Improvement Marketing",
+      "description": "Home improvement marketing agency for contractors. Elatre connects local SEO, ads, project content and lead follow-up to bring qualified enquiries.",
+      "use_cases": [
+        "More enquiries only help when they are the right enquiries",
+        "Define a qualified enquiry",
+        "Match demand to capacity",
+        "Follow the outcome",
+        "Home improvement marketing services with a clear role for every channel",
+        "Local search and service pages",
+        "Google Ads and paid campaigns",
+        "Project content and visual proof"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Home improvement"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/home-improvement-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__home-improvement-marketing.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-manufacturing-video-production",
+      "name": "Manufacturing Video Production",
+      "description": "Manufacturing video production for facility tours, product demonstrations and sales content. Plan filming, editing and delivery with Elatre.",
+      "use_cases": [
+        "Give technical buyers something useful to see",
+        "Audience before equipment",
+        "A defined production brief",
+        "Technical review built in",
+        "Manufacturing videos for real business situations",
+        "Facility and capabilities films",
+        "Process and product demonstrations",
+        "Engineering and customer interviews"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Manufacturing"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/manufacturing-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__manufacturing-video-production.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-pre-launch-marketing",
+      "name": "Pre-launch Marketing",
+      "description": "Elatre is a pre launch marketing agency for B2B and ecommerce brands. Plan your positioning, waitlist, landing page, creative and launch campaigns.",
+      "use_cases": [
+        "What does a pre-launch marketing agency do?",
+        "Start with one audience",
+        "Give interest a next step",
+        "Record what you learn",
+        "A launch plan with working pages, content and campaigns",
+        "Audience and market research",
+        "Positioning and launch messaging",
+        "Landing pages and waitlists"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "B2B",
+        "Ecommerce"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/pre-launch-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__pre-launch-marketing.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-food-beverage-video-production",
+      "name": "Food & Beverage Video Production",
+      "description": "Food and beverage video production for product launches, recipes, ecommerce and campaigns. Plan filming, photography, editing and distribution with Elatre.",
+      "use_cases": [
+        "Good food content answers more than “Does it look good?”",
+        "Make the product recognizable",
+        "Show a reason to use it",
+        "Build a usable content set",
+        "Video and photography for the way you sell food",
+        "Product and packaging videos",
+        "Recipe and preparation videos",
+        "Brand, people and process films"
+      ],
+      "supported_technologies": [],
+      "industries": [
+        "Ecommerce",
+        "Food and beverage"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/food-beverage-video-production/",
+      "source_html": "research/html/services/digital-marketing-services__food-beverage-video-production.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    },
+    {
+      "id": "solution-digital-marketing-services-ecommerce-marketing",
+      "name": "Ecommerce marketing services",
+      "description": "An ecommerce marketing agency for Shopify, WooCommerce and Amazon brands. Elatre connects SEO, paid ads, email and conversion work to orders and repeat sales.",
+      "use_cases": [
+        "Watch a store grow over 6 months",
+        "We grow orders first, then traffic",
+        "We measure what matters.",
+        "What our ecommerce marketing services include",
+        "We grow revenue, not just traffic",
+        "Store growth in our clients' words",
+        "Frequently Asked Questions"
+      ],
+      "supported_technologies": [
+        "Shopify"
+      ],
+      "industries": [
+        "Ecommerce",
+        "Shopify merchants",
+        "Amazon marketplace sellers and vendors"
+      ],
+      "source_url": "https://elatre.com/digital-marketing-services/ecommerce-marketing/",
+      "source_html": "research/html/services/digital-marketing-services__ecommerce-marketing.html",
+      "verification_status": "verified",
+      "note": "Published as a service or consulting page. Included here because the page describes a vertical, outcome, or packaged offer. The site does not publish a separate solutions catalog."
+    }
+  ],
+  "portfolio_types": [
+    {
+      "id": "portfolio-type-portfolio-types-b2b-saas-technology",
+      "name": "B2B SaaS and technology",
+      "description": "Case studies for SaaS, fintech infrastructure, martech, HR tech, cybersecurity, and technical software companies. These examples show how Elatre increases demos, developer signups, enterprise pipeline, AI search visibility, and ARR.",
+      "count": 3,
+      "url": "https://elatre.com/portfolio-types/b2b-saas-technology/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-custom-software-ai-builds",
+      "name": "Custom software and AI builds",
+      "description": "Case studies focused on custom software platforms, AI automation, dashboards, portals, and internal business systems. These examples show how Elatre builds operational tools that reduce manual work, improve customer experience, and unlock scalable growth.",
+      "count": 2,
+      "url": "https://elatre.com/portfolio-types/custom-software-ai-builds/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-ecommerce-dtc",
+      "name": "Ecommerce and DTC",
+      "description": "Case studies for ecommerce, direct-to-consumer, retail, beauty, apparel, home goods, outdoor sports, and auto parts brands. These examples highlight growth in revenue, repeat purchases, ROAS, subscriptions, B2B orders, and customer lifetime value.",
+      "count": 4,
+      "url": "https://elatre.com/portfolio-types/ecommerce-dtc/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-education-online-learning",
+      "name": "Education and online learning",
+      "description": "Case studies for bootcamps, tutoring brands, test prep companies, and online learning businesses. These examples highlight lower student acquisition costs, higher enrollment, stronger parent or student visibility, and improved organic discovery.",
+      "count": 2,
+      "url": "https://elatre.com/portfolio-types/education-online-learning/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-financial-services-fintech",
+      "name": "Financial services and fintech",
+      "description": "Case studies for credit unions, insurance brokers, lending businesses, and financial services organizations. These examples focus on compliant acquisition, loan applications, commercial accounts, AI search visibility, and digital conversion flows.",
+      "count": 2,
+      "url": "https://elatre.com/portfolio-types/financial-services-fintech/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-full-stack-growth-programs",
+      "name": "Full-stack growth programs",
+      "description": "Case studies where Elatre manages marketing, software, analytics, and growth across multiple brands or complex organizations. These examples show coordinated, full-stack execution across paid media, SEO, CRM, engineering, content, and conversion systems.",
+      "count": 1,
+      "url": "https://elatre.com/portfolio-types/full-stack-growth-programs/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-healthcare-medical",
+      "name": "Healthcare and medical",
+      "description": "Case studies for healthcare providers, medical practices, telehealth companies, senior care organizations, and healthcare SaaS brands. These examples show how Elatre grows patient demand, qualified tours, demos, signups, and digital visibility through marketing and software.",
+      "count": 4,
+      "url": "https://elatre.com/portfolio-types/healthcare-medical/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-hospitality-travel",
+      "name": "Hospitality and travel",
+      "description": "Case studies for hotels, restaurants, travel brands, and hospitality groups. These examples show how Elatre increases direct bookings, loyalty signups, repeat visits, local visibility, and revenue across locations.",
+      "count": 2,
+      "url": "https://elatre.com/portfolio-types/hospitality-travel/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-local-service-businesses",
+      "name": "Local service businesses",
+      "description": "Case studies for home services and local operators such as HVAC, plumbing, landscaping, solar, and other service-area businesses. These examples show how Elatre reduces lead costs, increases service calls, improves retention, and builds local demand systems.",
+      "count": 3,
+      "url": "https://elatre.com/portfolio-types/local-service-businesses/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-manufacturing-industrial",
+      "name": "Manufacturing and industrial",
+      "description": "Case studies for manufacturers, distributors, industrial suppliers, packaging companies, and B2B industrial businesses. These examples focus on dealer inquiries, quote requests, new market expansion, technical content, and custom portals.",
+      "count": 3,
+      "url": "https://elatre.com/portfolio-types/manufacturing-industrial/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-nonprofit-social-impact",
+      "name": "Nonprofit and social impact",
+      "description": "Case studies for nonprofits, workforce organizations, mission-driven programs, and social impact initiatives. These examples show how Elatre improves partnerships, placements, outreach systems, CRM automation, and measurable program outcomes.",
+      "count": 0,
+      "url": "https://elatre.com/portfolio-types/nonprofit-social-impact/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-professional-services",
+      "name": "Professional services",
+      "description": "Case studies for firms such as law practices, accounting firms, consultants, and other expert-led service providers. These examples show how Elatre builds inbound demand, improves positioning, creates authority content, and increases qualified client opportunities.",
+      "count": 2,
+      "url": "https://elatre.com/portfolio-types/professional-services/",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-type-portfolio-types-real-estate-construction",
+      "name": "Real estate and construction",
+      "description": "Case studies for brokerages, contractors, construction companies, developers, and property-related businesses. These examples highlight improvements in listing volume, RFP win rate, buyer engagement, portfolio presentation, and pipeline growth.",
+      "count": 2,
+      "url": "https://elatre.com/portfolio-types/real-estate-construction/",
+      "verification_status": "verified"
+    }
+  ],
+  "verification_status": "verified"
+}

@@ -1,0 +1,559 @@
+{
+  "website": "https://elatre.com/",
+  "project": "elatre-mcp-enterprise-suite",
+  "extraction_date": "2026-11-04T11:50:40+00:00",
+  "phase": 1,
+  "status": "completed_with_documented_limits",
+  "totals": {
+    "discovered_urls": 2871,
+    "inspected_pages_and_portfolio": 95,
+    "inspected_blog_post_metadata": 1049,
+    "saved_html_snapshots": 96,
+    "json_records": {
+      "pages_and_portfolio": 95,
+      "blog_posts": 1049,
+      "services": 50,
+      "solutions": 18,
+      "faqs": 231,
+      "integrations": 15,
+      "products": 0,
+      "assets_identified": 728,
+      "assets_downloaded": 13,
+      "technologies": 17,
+      "case_studies": 30,
+      "categories": 81
+    }
+  },
+  "completed": [
+    "Public sitemap index and child sitemaps were read.",
+    "robots.txt was read and its disallow rules were respected.",
+    "Published pages and portfolio items were retrieved from the public REST API and saved as HTML snapshots.",
+    "Blog posts were inventoried from the public REST API and post sitemaps.",
+    "Structured JSON, Markdown notes, and a source inventory were written."
+  ],
+  "partially_completed": [
+    "Blog post HTML was not saved. Titles, dates, excerpts, categories, and canonical URLs were saved.",
+    "Category, tag, and portfolio-type archive HTML was not saved. Names, counts, and URLs were saved from the REST API and sitemaps.",
+    "Frontend assets were inventoried. Only selected first-party brand images were downloaded.",
+    "Header and footer links were parsed from homepage HTML because menu REST routes are not public."
+  ],
+  "failed": [],
+  "not_accessible": [
+    {
+      "resource": "https://elatre.com/wp-json/wp/v2/menus",
+      "status": 401,
+      "note": "Authentication was not bypassed."
+    },
+    {
+      "resource": "https://elatre.com/wp-json/wp/v2/menu-locations",
+      "status": 401,
+      "note": "Authentication was not bypassed."
+    }
+  ],
+  "restricted_resources": [
+    "/wp-admin/ except the publicly allowed admin-ajax.php path, which was not called",
+    "/wp-content/uploads/wc-logs/",
+    "/wp-content/uploads/woocommerce_transient_files/",
+    "/wp-content/uploads/woocommerce_uploads/",
+    "add-to-cart query URLs"
+  ],
+  "missing_information": [
+    "No public product SKUs.",
+    "No public integration directory with official documentation URLs.",
+    "Animated project counter value is not present in static HTML.",
+    "Legal name, year founded beyond the published 'Since 2021' phrasing, and full executive team were not established beyond the published founder filename and page copy."
+  ],
+  "outstanding_tasks": [
+    "Phase 2 MCP server implementation is intentionally not started.",
+    "GitHub publication is intentionally not started.",
+    "Full blog HTML snapshots remain optional if a later phase needs article bodies."
+  ],
+  "identified_frontend_technologies": [
+    "All in One SEO Pro",
+    "Elementor",
+    "Elementor Pro",
+    "Site Kit by Google",
+    "WordPress",
+    "PixFort theme and pixfort-core",
+    "jQuery",
+    "WooCommerce",
+    "Formidable Forms",
+    "Jetpack",
+    "Google tag (gtag.js)",
+    "WordPress.com font service",
+    "Swiper",
+    "Lottie",
+    "WordPress.com / Automattic hosting",
+    "Calendly",
+    "MailPoet"
+  ],
+  "blog_categories": [
+    {
+      "id": "category-category-advertising-general",
+      "name": "advertising",
+      "slug": "advertising-general",
+      "url": "https://elatre.com/category/advertising-general/",
+      "count": 4,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-awareness",
+      "name": "Awareness",
+      "slug": "awareness",
+      "url": "https://elatre.com/category/awareness/",
+      "count": 6,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-b2b-marketing",
+      "name": "B2B Marketing",
+      "slug": "b2b-marketing",
+      "url": "https://elatre.com/category/b2b-marketing/",
+      "count": 2,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-digital-marketing",
+      "name": "Digital Marketing",
+      "slug": "digital-marketing",
+      "url": "https://elatre.com/category/digital-marketing/",
+      "count": 253,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-ecommerce",
+      "name": "eCommerce",
+      "slug": "ecommerce",
+      "url": "https://elatre.com/category/ecommerce/",
+      "count": 33,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-marketing-trends",
+      "name": "Marketing Trends",
+      "slug": "marketing-trends",
+      "url": "https://elatre.com/category/marketing-trends/",
+      "count": 4,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-optimization",
+      "name": "Optimization",
+      "slug": "optimization",
+      "url": "https://elatre.com/category/optimization/",
+      "count": 3,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-seo",
+      "name": "SEO",
+      "slug": "seo",
+      "url": "https://elatre.com/category/seo/",
+      "count": 137,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-shopify",
+      "name": "Shopify",
+      "slug": "shopify",
+      "url": "https://elatre.com/category/shopify/",
+      "count": 6,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-social-media-ads",
+      "name": "Social Media Ads",
+      "slug": "social-media-ads",
+      "url": "https://elatre.com/category/social-media-ads/",
+      "count": 2,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-social-media-marketing",
+      "name": "Social Media Marketing",
+      "slug": "social-media-marketing",
+      "url": "https://elatre.com/category/social-media-marketing/",
+      "count": 44,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-uncategorized",
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "url": "https://elatre.com/category/uncategorized/",
+      "count": 7,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-web",
+      "name": "Web",
+      "slug": "web",
+      "url": "https://elatre.com/category/web/",
+      "count": 7,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-website-development",
+      "name": "Website Development",
+      "slug": "website-development",
+      "url": "https://elatre.com/category/website-development/",
+      "count": 26,
+      "description": null,
+      "verification_status": "verified"
+    },
+    {
+      "id": "category-category-website-optimization",
+      "name": "Website Optimization",
+      "slug": "website-optimization",
+      "url": "https://elatre.com/category/website-optimization/",
+      "count": 23,
+      "description": null,
+      "verification_status": "verified"
+    }
+  ],
+  "case_studies": [
+    {
+      "id": "portfolio-portfolio-item-atlanta-commercial-insurance-broker-how-we-grew-new-commercial-accounts-from-47-to-218-annually",
+      "title": "Atlanta commercial insurance broker: how we grew new commercial accounts from 47 to 218 annually",
+      "url": "https://elatre.com/portfolio-item/atlanta-commercial-insurance-broker-how-we-grew-new-commercial-accounts-from-47-to-218-annually/",
+      "summary": "Atlanta insurance broker case study: 47 to 218 accounts | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Atlanta commercial insurance b",
+      "source_html": "research/html/resources/portfolio/portfolio-item__atlanta-commercial-insurance-broker-how-we-grew-new-commercial-accounts-from-47-to-218-annually.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-denver-hvac-contractor-how-we-cut-cost-per-service-call-from-87-to-24-in-7-months",
+      "title": "Denver HVAC contractor: how we cut cost per service call from $87 to $24 in 7 months",
+      "url": "https://elatre.com/portfolio-item/denver-hvac-contractor-how-we-cut-cost-per-service-call-from-87-to-24-in-7-months/",
+      "summary": "Denver HVAC case study: cost per call $87 to $24 | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Denver HVAC contractor: how we cut co",
+      "source_html": "research/html/resources/portfolio/portfolio-item__denver-hvac-contractor-how-we-cut-cost-per-service-call-from-87-to-24-in-7-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-phoenix-plumbing-company-how-we-grew-monthly-service-calls-from-124-to-487-in-5-months",
+      "title": "Phoenix plumbing company: how we grew monthly service calls from 124 to 487 in 5 months",
+      "url": "https://elatre.com/portfolio-item/phoenix-plumbing-company-how-we-grew-monthly-service-calls-from-124-to-487-in-5-months/",
+      "summary": "Phoenix plumbing case study: 124 to 487 calls monthly | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Phoenix plumbing company: how we",
+      "source_html": "research/html/resources/portfolio/portfolio-item__phoenix-plumbing-company-how-we-grew-monthly-service-calls-from-124-to-487-in-5-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-tampa-landscaping-company-how-we-lifted-annual-contract-retention-from-31-to-78-in-9-months",
+      "title": "Tampa landscaping company: how we lifted annual contract retention from 31% to 78% in 9 months",
+      "url": "https://elatre.com/portfolio-item/tampa-landscaping-company-how-we-lifted-annual-contract-retention-from-31-to-78-in-9-months/",
+      "summary": "Tampa landscaping case study: retention 31% to 78% | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Tampa landscaping company: how we l",
+      "source_html": "research/html/resources/portfolio/portfolio-item__tampa-landscaping-company-how-we-lifted-annual-contract-retention-from-31-to-78-in-9-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-national-online-coding-bootcamp-how-we-cut-enrolled-student-cac-from-1840-to-620-in-10-months",
+      "title": "National online coding bootcamp: how we cut enrolled student CAC from $1,840 to $620 in 10 months",
+      "url": "https://elatre.com/portfolio-item/national-online-coding-bootcamp-how-we-cut-enrolled-student-cac-from-1840-to-620-in-10-months/",
+      "summary": "Coding bootcamp case study: enrolled CAC $1,840 to $620 | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact National online coding bootcam",
+      "source_html": "research/html/resources/portfolio/portfolio-item__national-online-coding-bootcamp-how-we-cut-enrolled-student-cac-from-1840-to-620-in-10-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-nyc-k-12-test-prep-brand-how-we-grew-annual-student-enrollment-from-380-to-1420-in-12-months",
+      "title": "NYC K-12 test prep brand: how we grew annual student enrollment from 380 to 1,420 in 12 months",
+      "url": "https://elatre.com/portfolio-item/nyc-k-12-test-prep-brand-how-we-grew-annual-student-enrollment-from-380-to-1420-in-12-months/",
+      "summary": "NYC test prep case study: 380 to 1,420 students | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact NYC K-12 test prep brand: how we grew",
+      "source_html": "research/html/resources/portfolio/portfolio-item__nyc-k-12-test-prep-brand-how-we-grew-annual-student-enrollment-from-380-to-1420-in-12-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai",
+      "title": "Atlanta logistics company: how we cut dispatch admin work from 14 hours to 2 hours daily with custom AI",
+      "url": "https://elatre.com/portfolio-item/atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai/",
+      "summary": "Atlanta logistics case study: 14 to 2 hours dispatch | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Atlanta logistics company: how we",
+      "source_html": "research/html/resources/portfolio/portfolio-item__atlanta-logistics-company-how-we-cut-dispatch-admin-work-from-14-hours-to-2-hours-daily-with-custom-ai.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-austin-saas-holding-company-how-we-ran-a-full-stack-growth-program-across-5-portfolio-brands-and-grew-arr-from-12m-to-48m",
+      "title": "Austin SaaS holding company: how we ran a full-stack growth program across 5 portfolio brands and grew ARR from $12M to $48M",
+      "url": "https://elatre.com/portfolio-item/austin-saas-holding-company-how-we-ran-a-full-stack-growth-program-across-5-portfolio-brands-and-grew-arr-from-12m-to-48m/",
+      "summary": "Austin SaaS holding case study: $12M to $48M ARR | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Austin SaaS holding company: how we r",
+      "source_html": "research/html/resources/portfolio/portfolio-item__austin-saas-holding-company-how-we-ran-a-full-stack-growth-program-across-5-portfolio-brands-and-grew-arr-from-12m-to-48m.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months",
+      "title": "Salt Lake City fitness franchise network: how we built a custom multi-tenant SaaS platform for 84 studios in 10 months",
+      "url": "https://elatre.com/portfolio-item/salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months/",
+      "summary": "SLC fitness franchise SaaS case study | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Salt Lake City fitness franchise network: how we",
+      "source_html": "research/html/resources/portfolio/portfolio-item__salt-lake-city-fitness-franchise-network-how-we-built-a-custom-multi-tenant-saas-platform-for-84-studios-in-10-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-minneapolis-credit-union-how-we-grew-monthly-loan-applications-from-380-to-2140-in-10-months",
+      "title": "Minneapolis credit union: how we grew monthly loan applications from 380 to 2,140 in 10 months",
+      "url": "https://elatre.com/portfolio-item/minneapolis-credit-union-how-we-grew-monthly-loan-applications-from-380-to-2140-in-10-months/",
+      "summary": "Minneapolis credit union case study: 380 to 2,140 loans | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Minneapolis credit union: how",
+      "source_html": "research/html/resources/portfolio/portfolio-item__minneapolis-credit-union-how-we-grew-monthly-loan-applications-from-380-to-2140-in-10-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-chicago-employment-law-firm-how-we-grew-new-retainer-cases-from-6-to-31-per-quarter-in-10-months",
+      "title": "Chicago employment law firm: how we grew new retainer cases from 6 to 31 per quarter in 10 months",
+      "url": "https://elatre.com/portfolio-item/chicago-employment-law-firm-how-we-grew-new-retainer-cases-from-6-to-31-per-quarter-in-10-months/",
+      "summary": "Chicago law firm case study: 6 to 31 retainer cases | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Chicago employment law firm: how w",
+      "source_html": "research/html/resources/portfolio/portfolio-item__chicago-employment-law-firm-how-we-grew-new-retainer-cases-from-6-to-31-per-quarter-in-10-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-charlotte-regional-restaurant-chain-how-we-grew-loyalty-signups-from-4200-to-47000-across-6-locations",
+      "title": "Charlotte regional restaurant chain: how we grew loyalty signups from 4,200 to 47,000 across 6 locations",
+      "url": "https://elatre.com/portfolio-item/charlotte-regional-restaurant-chain-how-we-grew-loyalty-signups-from-4200-to-47000-across-6-locations/",
+      "summary": "Charlotte restaurant case study: loyalty 4,200 to 47,000 | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Charlotte regional restaurant",
+      "source_html": "research/html/resources/portfolio/portfolio-item__charlotte-regional-restaurant-chain-how-we-grew-loyalty-signups-from-4200-to-47000-across-6-locations.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-cleveland-custom-packaging-manufacturer-how-we-opened-8-new-state-markets-and-4-2m-in-pipeline",
+      "title": "Cleveland custom packaging manufacturer: how we opened 8 new state markets and $4.2M in pipeline",
+      "url": "https://elatre.com/portfolio-item/cleveland-custom-packaging-manufacturer-how-we-opened-8-new-state-markets-and-4-2m-in-pipeline/",
+      "summary": "Cleveland packaging case study: 8 new states, $4.2M | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Cleveland custom packaging manufac",
+      "source_html": "research/html/resources/portfolio/portfolio-item__cleveland-custom-packaging-manufacturer-how-we-opened-8-new-state-markets-and-4-2m-in-pipeline.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-asheville-boutique-hotel-how-we-grew-direct-bookings-from-11-to-49-of-revenue-in-8-months",
+      "title": "Asheville boutique hotel: how we grew direct bookings from 11% to 49% of revenue in 8 months",
+      "url": "https://elatre.com/portfolio-item/asheville-boutique-hotel-how-we-grew-direct-bookings-from-11-to-49-of-revenue-in-8-months/",
+      "summary": "Asheville hotel case study: direct bookings 11% to 49% | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Asheville boutique hotel: how w",
+      "source_html": "research/html/resources/portfolio/portfolio-item__asheville-boutique-hotel-how-we-grew-direct-bookings-from-11-to-49-of-revenue-in-8-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-houston-industrial-valves-distributor-how-we-grew-monthly-online-quote-requests-from-8-to-134-in-9-months",
+      "title": "Houston industrial valves distributor: how we grew monthly online quote requests from 8 to 134 in 9 months",
+      "url": "https://elatre.com/portfolio-item/houston-industrial-valves-distributor-how-we-grew-monthly-online-quote-requests-from-8-to-134-in-9-months/",
+      "summary": "Houston valves distributor case study: 8 to 134 quotes | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Houston industrial valves distr",
+      "source_html": "research/html/resources/portfolio/portfolio-item__houston-industrial-valves-distributor-how-we-grew-monthly-online-quote-requests-from-8-to-134-in-9-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-nashville-commercial-general-contractor-how-we-lifted-rfp-win-rate-from-12-to-41-with-18m-pipeline-added",
+      "title": "Nashville commercial general contractor: how we lifted RFP win rate from 12% to 41% with $18M pipeline added",
+      "url": "https://elatre.com/portfolio-item/nashville-commercial-general-contractor-how-we-lifted-rfp-win-rate-from-12-to-41-with-18m-pipeline-added/",
+      "summary": "Nashville contractor case study: RFP win rate 12% to 41% | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Nashville commercial general",
+      "source_html": "research/html/resources/portfolio/portfolio-item__nashville-commercial-general-contractor-how-we-lifted-rfp-win-rate-from-12-to-41-with-18m-pipeline-added.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-pittsburgh-specialty-steel-manufacturer-how-we-grew-qualified-dealer-inquiries-from-12-to-89-monthly",
+      "title": "Pittsburgh specialty steel manufacturer: how we grew qualified dealer inquiries from 12 to 89 monthly",
+      "url": "https://elatre.com/portfolio-item/pittsburgh-specialty-steel-manufacturer-how-we-grew-qualified-dealer-inquiries-from-12-to-89-monthly/",
+      "summary": "Pittsburgh steel manufacturer case study: 12 to 89 inquiries | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Pittsburgh specialty stee",
+      "source_html": "research/html/resources/portfolio/portfolio-item__pittsburgh-specialty-steel-manufacturer-how-we-grew-qualified-dealer-inquiries-from-12-to-89-monthly.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months",
+      "title": "Boston HR tech SaaS startup: how we grew quarterly demo bookings from 38 to 247 in 11 months",
+      "url": "https://elatre.com/portfolio-item/boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months/",
+      "summary": "Boston HR tech case study: 38 to 247 demos quarterly | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Boston HR tech SaaS startup: how",
+      "source_html": "research/html/resources/portfolio/portfolio-item__boston-hr-tech-saas-startup-how-we-grew-quarterly-demo-bookings-from-38-to-247-in-11-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-seattle-martech-saas-how-we-grew-enterprise-pipeline-from-1-2m-to-14m-in-14-months",
+      "title": "Seattle martech SaaS: how we grew enterprise pipeline from $1.2M to $14M in 14 months",
+      "url": "https://elatre.com/portfolio-item/seattle-martech-saas-how-we-grew-enterprise-pipeline-from-1-2m-to-14m-in-14-months/",
+      "summary": "Seattle martech SaaS case study: $1.2M to $14M pipeline | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Seattle martech SaaS: how we g",
+      "source_html": "research/html/resources/portfolio/portfolio-item__seattle-martech-saas-how-we-grew-enterprise-pipeline-from-1-2m-to-14m-in-14-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-san-francisco-fintech-api-saas-how-we-grew-monthly-developer-signups-from-89-to-1420",
+      "title": "San Francisco fintech API SaaS: how we grew monthly developer signups from 89 to 1,420",
+      "url": "https://elatre.com/portfolio-item/san-francisco-fintech-api-saas-how-we-grew-monthly-developer-signups-from-89-to-1420/",
+      "summary": "SF fintech SaaS case study: 89 to 1,420 devs monthly | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact San Francisco fintech API SaaS: h",
+      "source_html": "research/html/resources/portfolio/portfolio-item__san-francisco-fintech-api-saas-how-we-grew-monthly-developer-signups-from-89-to-1420.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-phoenix-luxury-real-estate-brokerage-how-we-grew-closed-listing-volume-from-42m-to-187m-annually",
+      "title": "Phoenix luxury real estate brokerage: how we grew closed listing volume from $42M to $187M annually",
+      "url": "https://elatre.com/portfolio-item/phoenix-luxury-real-estate-brokerage-how-we-grew-closed-listing-volume-from-42m-to-187m-annually/",
+      "summary": "Phoenix luxury real estate case study: $42M to $187M | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Phoenix luxury real estate broker",
+      "source_html": "research/html/resources/portfolio/portfolio-item__phoenix-luxury-real-estate-brokerage-how-we-grew-closed-listing-volume-from-42m-to-187m-annually.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-san-diego-outdoor-sports-retailer-how-we-grew-roas-from-1-8x-to-4-6x-on-480k-monthly-ad-spend",
+      "title": "San Diego outdoor sports retailer: how we grew ROAS from 1.8x to 4.6x on $480K monthly ad spend",
+      "url": "https://elatre.com/portfolio-item/san-diego-outdoor-sports-retailer-how-we-grew-roas-from-1-8x-to-4-6x-on-480k-monthly-ad-spend/",
+      "summary": "San Diego sports retailer case study: ROAS 1.8x to 4.6x | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact San Diego outdoor sports retai",
+      "source_html": "research/html/resources/portfolio/portfolio-item__san-diego-outdoor-sports-retailer-how-we-grew-roas-from-1-8x-to-4-6x-on-480k-monthly-ad-spend.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-dallas-tax-accounting-firm-how-we-lifted-off-season-retainer-revenue-from-14k-to-186k-monthly",
+      "title": "Dallas tax accounting firm: how we lifted off-season retainer revenue from $14K to $186K monthly",
+      "url": "https://elatre.com/portfolio-item/dallas-tax-accounting-firm-how-we-lifted-off-season-retainer-revenue-from-14k-to-186k-monthly/",
+      "summary": "Dallas accounting case study: $14K to $186K off-season | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Dallas tax accounting firm: how",
+      "source_html": "research/html/resources/portfolio/portfolio-item__dallas-tax-accounting-firm-how-we-lifted-off-season-retainer-revenue-from-14k-to-186k-monthly.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-miami-beauty-and-skincare-startup-how-we-shipped-their-first-1m-month-in-10-months",
+      "title": "Miami beauty and skincare startup: how we shipped their first $1M month in 10 months",
+      "url": "https://elatre.com/portfolio-item/miami-beauty-and-skincare-startup-how-we-shipped-their-first-1m-month-in-10-months/",
+      "summary": "Miami beauty startup case study: first $1M month | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Miami beauty and skincare startup: ho",
+      "source_html": "research/html/resources/portfolio/portfolio-item__miami-beauty-and-skincare-startup-how-we-shipped-their-first-1m-month-in-10-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-portland-artisan-home-goods-brand-how-we-lifted-returning-customer-rate-from-14-to-38-in-7-months",
+      "title": "Portland artisan home goods brand: how we lifted returning customer rate from 14% to 38% in 7 months",
+      "url": "https://elatre.com/portfolio-item/portland-artisan-home-goods-brand-how-we-lifted-returning-customer-rate-from-14-to-38-in-7-months/",
+      "summary": "Portland home goods case study: returning rate 14% to 38% | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Portland artisan home goods",
+      "source_html": "research/html/resources/portfolio/portfolio-item__portland-artisan-home-goods-brand-how-we-lifted-returning-customer-rate-from-14-to-38-in-7-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months",
+      "title": "Brooklyn streetwear DTC brand: how we grew monthly revenue from $84K to $612K in 8 months",
+      "url": "https://elatre.com/portfolio-item/brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months/",
+      "summary": "Brooklyn streetwear case study: $84K to $612K monthly | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Brooklyn streetwear DTC brand: h",
+      "source_html": "research/html/resources/portfolio/portfolio-item__brooklyn-streetwear-dtc-brand-how-we-grew-monthly-revenue-from-84k-to-612k-in-8-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-denver-mental-health-teletherapy-startup-how-we-scaled-monthly-signups-from-340-to-2847",
+      "title": "Denver mental health teletherapy startup: how we scaled monthly signups from 340 to 2,847",
+      "url": "https://elatre.com/portfolio-item/denver-mental-health-teletherapy-startup-how-we-scaled-monthly-signups-from-340-to-2847/",
+      "summary": "Denver teletherapy case study: 340 to 2,847 signups | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Denver mental health teletherapy s",
+      "source_html": "research/html/resources/portfolio/portfolio-item__denver-mental-health-teletherapy-startup-how-we-scaled-monthly-signups-from-340-to-2847.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-boston-dental-practice-how-we-cut-cost-per-new-patient-lead-from-147-to-38-in-6-months",
+      "title": "Boston dental practice: how we cut cost per new patient lead from $147 to $38 in 6 months",
+      "url": "https://elatre.com/portfolio-item/boston-dental-practice-how-we-cut-cost-per-new-patient-lead-from-147-to-38-in-6-months/",
+      "summary": "Boston dental case study: cost per lead $147 to $38 | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Boston dental practice: how we cut",
+      "source_html": "research/html/resources/portfolio/portfolio-item__boston-dental-practice-how-we-cut-cost-per-new-patient-lead-from-147-to-38-in-6-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-austin-pediatric-clinic-chain-how-we-grew-monthly-new-patients-from-47-to-218-in-5-months",
+      "title": "Austin pediatric clinic chain: how we grew monthly new patients from 47 to 218 in 5 months",
+      "url": "https://elatre.com/portfolio-item/austin-pediatric-clinic-chain-how-we-grew-monthly-new-patients-from-47-to-218-in-5-months/",
+      "summary": "Austin pediatric clinic case study: 47 to 218 patients | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Austin pediatric clinic chain:",
+      "source_html": "research/html/resources/portfolio/portfolio-item__austin-pediatric-clinic-chain-how-we-grew-monthly-new-patients-from-47-to-218-in-5-months.html",
+      "verification_status": "verified"
+    },
+    {
+      "id": "portfolio-portfolio-item-healthcare-us-saas-startup-how-we-grew-pipeline-from-340k-to-3-1m-in-7-months",
+      "title": "Healthcare US SaaS startup: how we grew pipeline from $340K to $3.1M in 7 months",
+      "url": "https://elatre.com/portfolio-item/healthcare-us-saas-startup-how-we-grew-pipeline-from-340k-to-3-1m-in-7-months/",
+      "summary": "Healthcare SaaS case study: $340K to $3.1M pipeline | Elatre Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Book a free strategy call Get AI Visibility Audit info@elatre.com Follow us on Home Marketing services SEO service AI SEO Service Paid ads and PPC Social media marketing Ecommerce marketing B2B marketing Software services AI automation and AI agents Custom developments CRM automation Website development Mobile app development About Contact Healthcare US SaaS startup: how we",
+      "source_html": "research/html/resources/portfolio/portfolio-item__healthcare-us-saas-startup-how-we-grew-pipeline-from-340k-to-3-1m-in-7-months.html",
+      "verification_status": "verified"
+    }
+  ],
+  "validation": {
+    "json_files_checked": 12,
+    "errors": [],
+    "status": "passed",
+    "notes": [
+      "FAQ records share a source URL when several questions come from one page. Uniqueness is enforced on FAQ id, not source URL.",
+      "Technology records often share the homepage URL because that document supplied the evidence."
+    ]
+  },
+  "empty_public_category_terms": {
+    "count": 66,
+    "note": "The REST API lists these category terms with a post count of zero. They are not in the public category sitemap.",
+    "names": [
+      "advertising",
+      "AI",
+      "Amazon Seller Services",
+      "Articles",
+      "Blog Search Engine Optimization",
+      "Branding",
+      "building backlinks",
+      "Canada",
+      "Chatbot Marketing",
+      "Competitive Analysis",
+      "Content Marketing",
+      "Content Writing",
+      "Conversion Rate Optimization",
+      "Creative Marketing",
+      "Design",
+      "Digital Marketing Campaigns",
+      "Email Marketing",
+      "Facebook",
+      "General",
+      "General and Updates",
+      "Google Ads",
+      "Google Analytics",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Podcast",
+      "Google Search Console",
+      "Google Trends",
+      "Growth Marketing",
+      "Inbound Marketing",
+      "Influencer Marketing",
+      "Instagram",
+      "Internet Marketing",
+      "Keyword Research",
+      "Landscape",
+      "Lead Generation Tools",
+      "LinkedIn",
+      "Marketing Attribution",
+      "Marketing Automation",
+      "Marketing KPIs",
+      "mobile marketing",
+      "Native Advertising",
+      "New",
+      "Omnichannel Marketing",
+      "Pay Per Click",
+      "Planing",
+      "PPC",
+      "Promotional",
+      "ROI",
+      "Search Engine Marketing",
+      "Search Engine Optimization Tools",
+      "SEO Audit",
+      "Social Media",
+      "Social Media Marketing.",
+      "social media tips",
+      "Statistics",
+      "Technical SEO",
+      "Twitter",
+      "Uncategorized post",
+      "Ux Design",
+      "Video Marketing",
+      "Web Analytics Tools",
+      "Web Design",
+      "Website Traffic",
+      "Wordpress",
+      "YouTube"
+    ]
+  },
+  "public_notice_pages": [
+    {
+      "title": "Do not engage with scammers sending fake Elatre job offers by phone or WhatsApp",
+      "url": "https://elatre.com/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp/",
+      "source_html": "research/html/other-pages/do-not-engage-with-scammers-sending-fake-elatre-job-offers-by-phone-or-whatsapp.html",
+      "record_type": "blog_post",
+      "verification_status": "verified"
+    }
+  ]
+}

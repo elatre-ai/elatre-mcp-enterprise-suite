@@ -1,0 +1,16 @@
+.git
+.github
+node_modules
+dist
+.env
+*.log
+coverage
+tests
+research/html
+research/json/website-pages.json
+research/json/source-inventory.json
+research/json/faq.json
+assets
+*.tgz
+.DS_Store
+agent-transcripts
