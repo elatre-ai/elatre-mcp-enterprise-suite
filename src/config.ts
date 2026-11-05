@@ -85,19 +85,43 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
   const token = env.MCP_AUTH_TOKEN?.trim();
   const config = configSchema.parse({
     transport,
-    host: env.MCP_HOST?.trim() || (transport === "http" ? "0.0.0.0" : "127.0.0.1"),
-    port: requirePositiveInt("PORT", env.PORT, 7860),
-    authToken: token ? token : undefined,
+    host: env.MCP_HOST?.trim() || (
+      transport === "http" ? "0.0.0.0" : "127.0.0.1"
+    ),
+    port: requirePositiveInt("PORT", env.PORT, 5999),
+  
+    authToken: token || undefined,
     allowUnauthenticated: env.MCP_ALLOW_UNAUTHENTICATED === "true",
+  
     allowedHosts,
     allowedOrigins: splitList(env.MCP_ALLOWED_ORIGINS),
-    logLevel: env.LOG_LEVEL ?? "info",
-    maxBodyBytes: requirePositiveInt("MCP_MAX_BODY_BYTES", env.MCP_MAX_BODY_BYTES, 65_536),
+  
+    logLevel: env.LOG_LEVEL || "info",
+    maxBodyBytes: requirePositiveInt(
+      "MCP_MAX_BODY_BYTES",
+      env.MCP_MAX_BODY_BYTES,
+      65_536
+    ),
+  
     nodeEnv: env.NODE_ENV?.trim() || "development",
     trustProxy: env.MCP_TRUST_PROXY === "true",
-    maxSessions: requirePositiveInt("MCP_MAX_SESSIONS", env.MCP_MAX_SESSIONS, 100),
-    requestsPerMinute: requirePositiveInt("MCP_REQUESTS_PER_MINUTE", env.MCP_REQUESTS_PER_MINUTE, 120),
+  
+    maxSessions: requirePositiveInt(
+      "MCP_MAX_SESSIONS",
+      env.MCP_MAX_SESSIONS,
+      100
+    ),
+  
+    requestsPerMinute: requirePositiveInt(
+      "MCP_REQUESTS_PER_MINUTE",
+      env.MCP_REQUESTS_PER_MINUTE,
+      120
+    ),
   });
-  assertHttpSecurity(config);
+  
+  if (config.transport === "http") {
+    assertHttpSecurity(config);
+  }
+  
   return config;
 }
