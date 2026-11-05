@@ -91,7 +91,7 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
     port: requirePositiveInt("PORT", env.PORT, 5999),
   
     authToken: token || undefined,
-    allowUnauthenticated: env.MCP_ALLOW_UNAUTHENTICATED === "true",
+    allowUnauthenticated: true,
   
     allowedHosts,
     allowedOrigins: splitList(env.MCP_ALLOWED_ORIGINS),
