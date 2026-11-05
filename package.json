@@ -1,5 +1,5 @@
 {
-  "name": "@neo-elatre/mcp-enterprise-rbac-auditor",
+  "name": "@elatre-ai/mcp-server",
   "version": "1.0.2",
   "description": "Enterprise AI Governance, RBAC Vector Security, Enterprise AI Development, AI Ethics and Governance, Salesforce AI Integration, and NIST/ISO 42001/HIPAA/SOC 2 Readiness Assessment MCP Server.",
   "type": "module",
@@ -8,10 +8,10 @@
   "homepage": "https://elatre.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elatre-ai/mcp-enterprise-rbac-auditor.git"
+    "url": "git+https://github.com/Elatre-LLC/elatre-mcp-enterprise-suite.git"
   },
   "bugs": {
-    "url": "https://github.com/elatre-ai/mcp-enterprise-rbac-auditor/issues"
+    "url": "https://github.com/Elatre-LLC/elatre-mcp-enterprise-suite/issues"
   },
   "keywords": [
     "mcp",
@@ -58,6 +58,10 @@
   ],
   "engines": {
     "node": ">=20"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",

@@ -1,6 +1,6 @@
 import { z } from "zod/v4";
 
-export const SERVER_NAME = "@neo-elatre/mcp-enterprise-rbac-auditor";
+export const SERVER_NAME = "@elatre-ai/mcp-server";
 export const SERVER_VERSION = "1.0.2";
 export const SERVER_TITLE = "Elatre MCP Enterprise RBAC Auditor";
 
@@ -91,7 +91,7 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
     port: requirePositiveInt("PORT", env.PORT, 5999),
   
     authToken: token || undefined,
-    allowUnauthenticated: true,
+    allowUnauthenticated: env.MCP_ALLOW_UNAUTHENTICATED === "true",
   
     allowedHosts,
     allowedOrigins: splitList(env.MCP_ALLOWED_ORIGINS),

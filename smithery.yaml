@@ -22,7 +22,7 @@ startCommand:
   commandFunction: |-
     (config) => ({
       command: "npx",
-      args: ["-y", "@neo-elatre/mcp-enterprise-rbac-auditor"],
+      args: ["-y", "@elatre-ai/mcp-server"],
       env: {
         MCP_TRANSPORT: "stdio",
         LOG_LEVEL: config.logLevel || "info"

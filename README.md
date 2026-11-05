@@ -5,12 +5,12 @@ Read-only MCP server for enterprise AI governance reviews. It scores attested se
 Company: Elatre  
 Website: https://elatre.com/  
 Governance page: https://elatre.com/ai-ethics-and-governance/  
-Package: `@neo-elatre/mcp-enterprise-rbac-auditor`  
+Package: `@elatre-ai/mcp-server`  
 Version: 1.0.2
 
-The requested npm scope `@Neo Elatre` contains a space and uppercase letters. npm package names cannot use either, so the package name is the lowercase form `@neo-elatre/mcp-enterprise-rbac-auditor`. The MCP server reports that same name.
+The MCP server reports the same package name. The GitHub Package is configured as public under the `elatre-ai` scope.
 
-This repository is a local build. It is not published to npm, GitHub, Smithery, Glama, or Hugging Face.
+Source repository: https://github.com/Elatre-LLC/elatre-mcp-enterprise-suite. Smithery, Glama, and Hugging Face listings are not submitted.
 
 ## Enterprise features
 
@@ -254,7 +254,7 @@ Build the Docker Space from this `Dockerfile`. Set the Space secret `MCP_AUTH_TO
 ```yaml
 startCommand:
   type: stdio
-  commandFunction: (config) => ({ command: "npx", args: ["-y", "@neo-elatre/mcp-enterprise-rbac-auditor"] })
+  commandFunction: (config) => ({ command: "npx", args: ["-y", "@elatre-ai/mcp-server"] })
 ```
 
 The file in the repo also passes `LOG_LEVEL`. Smithery submission is waiting for approval. Current Smithery publishing for remote servers uses `smithery mcp publish` and is not run here.
@@ -263,14 +263,19 @@ The file in the repo also passes `LOG_LEVEL`. Smithery submission is waiting for
 
 The live schema at `https://glama.ai/mcp/schemas/server.json` requires one field, `maintainers`, an array of GitHub usernames. `glama.json` follows that schema. Package identity, description, tools, categories, and install instructions are in this README and `package.json`, which Glama can read from the repository. Listing description, categories, and Docker settings are edited in the Glama UI after a claim. `maintainers` currently contains `elatre-ai`, the GitHub organization in the requested repository URL. Confirm the personal maintainer username before claiming the listing. This repository has not been submitted.
 
-## npm publication
+## GitHub Packages
 
-Do not publish until the package name and repository are approved.
+The package name is `@elatre-ai/mcp-server`. Publish it as a public GitHub Package. Public packages are free to install.
 
 ```bash
 npm pack --dry-run
-npm login
-npm publish --access public
+npm publish
+```
+
+Install it with a project `.npmrc` that maps the scope:
+
+```text
+@elatre-ai:registry=https://npm.pkg.github.com
 ```
 
 The packed tarball includes the compiled server and the research JSON files the server reads. It does not include HTML snapshots, `.env`, or credentials.

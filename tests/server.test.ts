@@ -257,13 +257,13 @@ describe("MCP server", () => {
   it("matches the published Smithery and Glama configuration constraints", () => {
     const smithery = readFileSync(path.join(root, "smithery.yaml"), "utf8");
     assert.match(smithery, /type:\s*stdio/);
-    assert.match(smithery, /@neo-elatre\/mcp-enterprise-rbac-auditor/);
+    assert.match(smithery, /@elatre-ai\/mcp-server/);
     assert.equal(smithery.includes("startCommand:"), true);
     const command = smithery.slice(smithery.indexOf("(config)"));
     const fn = new Function(`return (${command})`)() as (config: { logLevel?: string }) => { command: string; args: string[]; env: Record<string, string> };
     const launched = fn({ logLevel: "error" });
     assert.equal(launched.command, "npx");
-    assert.deepEqual(launched.args, ["-y", "@neo-elatre/mcp-enterprise-rbac-auditor"]);
+    assert.deepEqual(launched.args, ["-y", "@elatre-ai/mcp-server"]);
     assert.equal(launched.env.MCP_TRANSPORT, "stdio");
     assert.equal(launched.env.LOG_LEVEL, "error");
 
