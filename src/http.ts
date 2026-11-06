@@ -1,7 +1,5 @@
 import { randomUUID, timingSafeEqual } from "node:crypto";
 import type { AddressInfo } from "node:net";
-import { InvalidTokenError } from "@modelcontextprotocol/sdk/server/auth/errors.js";
-import { requireBearerAuth } from "@modelcontextprotocol/sdk/server/auth/middleware/bearerAuth.js";
 import { hostHeaderValidation } from "@modelcontextprotocol/sdk/server/middleware/hostHeaderValidation.js";
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
 import { isInitializeRequest } from "@modelcontextprotocol/sdk/types.js";
@@ -93,24 +91,21 @@ export async function startHttp(config: AppConfig): Promise<HttpHandle> {
   }, 60_000);
   idleTimer.unref();
 
-  const auth = config.authToken && !config.allowUnauthenticated
-    ? requireBearerAuth({
-        verifier: {
-          verifyAccessToken: async (token: string) => {
-            if (!tokensMatch(token, config.authToken ?? "")) {
-              throw new InvalidTokenError("Invalid token");
-            }
-            return {
-              token,
-              clientId: "static-bearer",
-              scopes: ["assessment:read"],
-              expiresAt: Math.floor(Date.now() / 1000) + 60 * 60,
-            };
-          },
-        },
-        requiredScopes: ["assessment:read"],
-      })
-    : (_req: Request, _res: Response, next: NextFunction) => next();
+  function requireAuth(req: Request, res: Response, next: NextFunction): void {
+    if (!config.authToken || config.allowUnauthenticated) {
+      next();
+      return;
+    }
+    const headerToken = headerValue(req.headers["x-auth-token"]);
+    const authorization = headerValue(req.headers.authorization);
+    const bearer = authorization?.toLowerCase().startsWith("bearer ") ? authorization.slice(7).trim() : undefined;
+    const presented = headerToken || bearer;
+    if (!presented || !tokensMatch(presented, config.authToken)) {
+      res.status(401).json({ error: "invalid_token", error_description: "Missing or invalid x-auth-token" });
+      return;
+    }
+    next();
+  }
 
   function enforceOrigin(req: Request, res: Response, next: NextFunction): void {
     const origin = headerValue(req.headers.origin);
@@ -121,7 +116,7 @@ export async function startHttp(config: AppConfig): Promise<HttpHandle> {
     if (config.allowedOrigins.includes(origin)) {
       res.setHeader("Vary", "Origin");
       res.setHeader("Access-Control-Allow-Origin", origin);
-      res.setHeader("Access-Control-Allow-Headers", "Authorization, Content-Type, Mcp-Session-Id, Last-Event-ID");
+      res.setHeader("Access-Control-Allow-Headers", "Authorization, X-Auth-Token, Content-Type, Mcp-Session-Id, Last-Event-ID");
       res.setHeader("Access-Control-Allow-Methods", "GET, POST, DELETE, OPTIONS");
       next();
       return;
@@ -210,13 +205,13 @@ export async function startHttp(config: AppConfig): Promise<HttpHandle> {
   app.options("/mcp", enforceOrigin, (_req, res) => {
     res.status(204).end();
   });
-  app.post("/mcp", enforceOrigin, enforceRate, auth, (req, res) => {
+  app.post("/mcp", enforceOrigin, enforceRate, requireAuth, (req, res) => {
     void handleMcp(req, res);
   });
-  app.get("/mcp", enforceOrigin, enforceRate, auth, (req, res) => {
+  app.get("/mcp", enforceOrigin, enforceRate, requireAuth, (req, res) => {
     void handleMcp(req, res);
   });
-  app.delete("/mcp", enforceOrigin, enforceRate, auth, (req, res) => {
+  app.delete("/mcp", enforceOrigin, enforceRate, requireAuth, (req, res) => {
     void handleMcp(req, res);
   });
 
