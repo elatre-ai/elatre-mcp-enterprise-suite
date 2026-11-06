@@ -39,6 +39,7 @@ const configSchema = z.object({
   trustProxy: z.boolean(),
   maxSessions: z.number().int().min(1).max(10_000),
   requestsPerMinute: z.number().int().min(1).max(10_000),
+  bookingApiBaseUrl: z.string().trim().url().max(300),
 });
 
 export type AppConfig = z.infer<typeof configSchema>;
@@ -89,39 +90,40 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
       transport === "http" ? "0.0.0.0" : "127.0.0.1"
     ),
     port: requirePositiveInt("PORT", env.PORT, 5999),
-  
+
     authToken: token || undefined,
     allowUnauthenticated: env.MCP_ALLOW_UNAUTHENTICATED === "true",
-  
+
     allowedHosts,
     allowedOrigins: splitList(env.MCP_ALLOWED_ORIGINS),
-  
+
     logLevel: env.LOG_LEVEL || "info",
     maxBodyBytes: requirePositiveInt(
       "MCP_MAX_BODY_BYTES",
       env.MCP_MAX_BODY_BYTES,
       65_536
     ),
-  
+
     nodeEnv: env.NODE_ENV?.trim() || "development",
     trustProxy: env.MCP_TRUST_PROXY === "true",
-  
+
     maxSessions: requirePositiveInt(
       "MCP_MAX_SESSIONS",
       env.MCP_MAX_SESSIONS,
       100
     ),
-  
+
     requestsPerMinute: requirePositiveInt(
       "MCP_REQUESTS_PER_MINUTE",
       env.MCP_REQUESTS_PER_MINUTE,
       120
     ),
+    bookingApiBaseUrl: (env.BOOKING_API_BASE_URL?.trim() || "https://aff8-106-51-234-14.ngrok-free.app/api").replace(/\/$/, ""),
   });
-  
+
   if (config.transport === "http") {
     assertHttpSecurity(config);
   }
-  
+
   return config;
 }

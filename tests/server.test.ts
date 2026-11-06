@@ -56,9 +56,11 @@ describe("MCP server", () => {
         "analyze_enterprise_ai_stack",
         "assess_rbac_vector_security",
         "audit_enterprise_ai_governance_architecture",
+        "book_slot",
         "calculate_architecture_readiness",
         "generate_compliance_checklist",
         "get_elatre_company_information",
+        "list_booking_slots",
       ]);
       const resources = await client.listResources();
       assert.deepEqual(resources.resources.map((resource) => resource.uri).sort(), [
@@ -135,7 +137,7 @@ describe("MCP server", () => {
     const client = await connectClient(transport);
     try {
       const tools = await client.listTools();
-      assert.equal(tools.tools.length, 6);
+      assert.equal(tools.tools.length, 8);
       const company = await client.callTool({ name: "get_elatre_company_information", arguments: { section: "profile" } });
       const body = JSON.parse(textOf(company)) as { data: { verified_statistics: unknown[]; statistics_status: string } };
       assert.deepEqual(body.data.verified_statistics, []);

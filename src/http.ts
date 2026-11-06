@@ -93,7 +93,7 @@ export async function startHttp(config: AppConfig): Promise<HttpHandle> {
   }, 60_000);
   idleTimer.unref();
 
-  const auth = config.authToken
+  const auth = config.authToken && !config.allowUnauthenticated
     ? requireBearerAuth({
         verifier: {
           verifyAccessToken: async (token: string) => {

@@ -6,6 +6,7 @@ import { registerCompanyResources } from "./resources/company.js";
 import { registerComplianceResources } from "./resources/compliance.js";
 import { registerServiceResources } from "./resources/services.js";
 import { registerArchitectureReadiness } from "./tools/architecture-readiness.js";
+import { registerBookingTools } from "./tools/booking.js";
 import { registerCompanyInformation } from "./tools/company-information.js";
 import { registerComplianceChecklist } from "./tools/compliance-checklist.js";
 import { registerGovernanceAudit } from "./tools/governance-audit.js";
@@ -30,6 +31,7 @@ export function createServer(): McpServer {
   registerComplianceChecklist(server);
   registerArchitectureReadiness(server);
   registerCompanyInformation(server);
+  registerBookingTools(server);
   registerCompanyResources(server);
   registerServiceResources(server);
   registerComplianceResources(server);

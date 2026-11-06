@@ -58,6 +58,26 @@ export const checklistSchema = z
   })
   .strict();
 
+export const listBookingSlotsSchema = z
+  .object({
+    startTime: z.string().trim().min(1).max(40),
+    endTime: z.string().trim().min(1).max(40),
+    timezone: z.string().trim().min(1).max(80).optional(),
+  })
+  .strict();
+
+export const bookSlotSchema = z
+  .object({
+    startTime: z.string().trim().min(1).max(40),
+    name: z.string().trim().min(1).max(200),
+    email: z.string().trim().email().max(320),
+    message: z.string().trim().min(1).max(4000),
+    firstName: z.string().trim().min(1).max(100).optional(),
+    lastName: z.string().trim().min(1).max(100).optional(),
+    phoneNumber: z.string().trim().regex(/^\+[1-9]\d{6,14}$/, "Phone number must include a country code, such as +14155550123").optional(),
+  })
+  .strict();
+
 export const companyInfoSchema = z
   .object({
     section: z.enum(["all", "profile", "contact", "services", "notices"]).optional(),
