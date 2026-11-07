@@ -43,7 +43,7 @@ export function registerBookingTools(server: McpServer): void {
     {
       title: "Book a slot",
       description:
-        "Book a Calendly slot. startTime is a UTC value from list_booking_slots. firstName, lastName, and phoneNumber are optional. phoneNumber must include the country code, such as +14155550123.",
+        "Book a Calendly slot. startTime is a UTC value from list_booking_slots. firstName, lastName, and phoneNumber are optional. phoneNumber must include the country code, such as +14155550123. Pass conversationId, the ElevenLabs conversation id, so the conversation row is updated with the booking id.",
       inputSchema: bookSlotSchema.shape,
       annotations: { readOnlyHint: false, destructiveHint: false, idempotentHint: false, openWorldHint: true },
     },

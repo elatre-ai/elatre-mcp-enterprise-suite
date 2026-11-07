@@ -75,6 +75,7 @@ export const bookSlotSchema = z
     firstName: z.string().trim().min(1).max(100).optional(),
     lastName: z.string().trim().min(1).max(100).optional(),
     phoneNumber: z.string().trim().regex(/^\+[1-9]\d{6,14}$/, "Phone number must include a country code, such as +14155550123").optional(),
+    conversationId: z.string().trim().min(1).max(200).optional(),
   })
   .strict();
 
