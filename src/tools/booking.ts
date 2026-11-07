@@ -43,7 +43,7 @@ export function registerBookingTools(server: McpServer): void {
     {
       title: "Book a slot",
       description:
-        "Book a Calendly slot. startTime is a UTC value from list_booking_slots. firstName, lastName, and phoneNumber are optional. phoneNumber must include the country code, such as +14155550123. Pass conversationId, the ElevenLabs conversation id, so the conversation row is updated with the booking id.",
+        "Book a Calendly slot. startTime is a UTC value from list_booking_slots. firstName, lastName, phoneNumber, and conversationId are optional. phoneNumber must include the country code, such as +14155550123. conversationId is the ElevenLabs conversation id. Omit it or send null when there is no conversation to update.",
       inputSchema: bookSlotSchema.shape,
       annotations: { readOnlyHint: false, destructiveHint: false, idempotentHint: false, openWorldHint: true },
     },
@@ -51,7 +51,9 @@ export function registerBookingTools(server: McpServer): void {
       const parsed = bookSlotSchema.safeParse(args ?? {});
       if (!parsed.success) return toolFailure("invalid_input", { issues: parsed.error.issues.map((issue) => issue.message) });
       try {
-        const result = await bookingRequest("/bookings/slots", { method: "POST", body: JSON.stringify(parsed.data) });
+        const { conversationId, ...rest } = parsed.data;
+        const body = conversationId ? { ...rest, conversationId } : rest;
+        const result = await bookingRequest("/bookings/slots", { method: "POST", body: JSON.stringify(body) });
         if (result.status >= 400) return toolFailure("booking_api_error", { status: result.status, body: result.body });
         return toolJson(result.body);
       } catch (error) {
